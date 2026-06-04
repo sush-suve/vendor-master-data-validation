@@ -1,0 +1,951 @@
+Vendor_ID,Vendor_Name,Category,Country,Region,Status,Onboarding_Date,Last_Updated,Contact_Email,Account_Code,Data_Source,Verified_By,Record_Status
+VND-0789,Vendor Zeta 901,Marketing,Canada,AMER,Active,19/05/2019,06/10/2019,vendor.zeta.901@gmail.com,ACC-9055,Legacy System,,Clean
+VND-0441,Vendor Epsilon 150,Marketing,India,APAC,Active,23/04/2022,05/08/2022,vendor.epsilon.150@corp.net,ACC-1529,Manual Entry,James T.,Clean
+VND-0140,Vendor Omega 114,Finance,Singapore,APAC,Active,16/06/2024,12/03/2025,vendor.omega.114@outlook.com,ACC-1744,Oracle,James T.,Clean
+VND-0696,Vendor Prime 56,HR,USA,AMER,Active,07/02/2024,08/05/2024,vendor.prime.56@vendor.com,ACC-7119,Oracle,James T.,Clean
+VND-0067,Vendor Zeta 71,Operations,Singapore,APAC,Active,17/09/2023,24/05/2024,vendor.zeta.71@gmail.com,ACC-8102,Manual Entry,,Clean
+VND-0853,Vendor Beta 524,Operations,UK,EMEA,Active,17/10/2020,28/10/2020,vendor.beta.524@gmail.com,ACC-9846,Manual Entry,Ravi K.,Clean
+VND-0406,Vendor Services 899,Finance,UK,EMEA,Active,21/04/2023,03/01/2024,vendor.services.899@corp.net,ACC-6015,Oracle,Priya S.,Clean
+VND-0737,Vendor Omega 652,Finance,India,APAC,Active,09/12/2024,01/11/2025,vendor.omega.652@gmail.com,ACC-9419,Oracle,,Clean
+VND-0458,Vendor Corp 75,Finance,Australia,APAC,Active,19/05/2022,25/03/2023,vendor.corp.75@gmail.com,ACC-5612,Legacy System,James T.,Clean
+VND-0308,Vendor Ltd 699,Marketing,India,APAC,Active,26/02/2024,05/03/2024,vendor.ltd.699@gmail.com,ACC-3588,Legacy System,James T.,Clean
+VND-0440,Vendor Global 110,IT,Germany,EMEA,Active,20/08/2019,30/11/2019,vendor.global.110@outlook.com,ACC-3636,Manual Entry,,Clean
+VND-0068,Vendor Ltd 849,IT,Singapore,APAC,Active,22/12/2020,15/09/2021,vendor.ltd.849@outlook.com,ACC-9817,Legacy System,James T.,Clean
+VND-0651,Vendor Tech 494,Legal,India,APAC,Active,26/11/2024,18/04/2025,vendor.tech.494@vendor.com,ACC-9469,SAP,Sarah L.,Clean
+VND-0874,Vendor Corp 541,Finance,Germany,EMEA,Active,14/04/2020,03/06/2020,vendor.corp.541@corp.net,ACC-3755,Manual Entry,Ravi K.,Clean
+VND-0491,Vendor Gamma 437,Legal,Australia,APAC,Active,01/10/2023,16/07/2024,vendor.gamma.437@outlook.com,ACC-5514,Legacy System,Ravi K.,Clean
+VND-0943,Vendor Alpha 246,Marketing,USA,AMER,Active,10/04/2022,17/03/2023,vendor.alpha.246@gmail.com,ACC-4559,Legacy System,James T.,Clean
+VND-0077,Vendor Epsilon 15,Legal,Australia,APAC,Active,06/07/2019,02/08/2019,vendor.epsilon.15@corp.net,ACC-5786,Oracle,,Clean
+VND-0434,Vendor Alpha 544,Legal,India,APAC,Active,08/11/2023,02/09/2024,vendor.alpha.544@vendor.com,ACC-9328,Oracle,,Clean
+VND-0533,Vendor Zeta 194,HR,Australia,APAC,Active,20/10/2021,11/01/2022,vendor.zeta.194@vendor.com,ACC-7199,Oracle,Anita M.,Clean
+VND-0875,Vendor Gamma 262,Marketing,India,APAC,Active,27/07/2023,08/07/2024,vendor.gamma.262@yahoo.com,ACC-1965,Manual Entry,Ravi K.,Clean
+VND-0724,Vendor Solutions 565,IT,UK,EMEA,Active,21/06/2021,04/02/2022,vendor.solutions.565@outlook.com,ACC-2515,Manual Entry,Priya S.,Clean
+VND-0667,Vendor Solutions 125,Legal,India,APAC,Active,16/06/2020,25/12/2020,vendor.solutions.125@corp.net,ACC-4027,SAP,,Clean
+VND-0602,Vendor Group 730,IT,Germany,EMEA,Active,15/03/2021,28/05/2024,vendor.group.730@yahoo.com,ACC-2926,Oracle,Ravi K.,Clean
+VND-0704,Vendor Solutions 93,IT,Germany,EMEA,Active,24/10/2020,19/10/2021,vendor.solutions.93@vendor.com,ACC-1399,Legacy System,James T.,Clean
+VND-0866,Vendor Corp 758,HR,India,APAC,Active,29/11/2022,02/01/2023,vendor.corp.758@gmail.com,ACC-7841,Legacy System,Sarah L.,Clean
+VND-0912,Vendor Tech 935,Marketing,UK,EMEA,Active,02/05/2019,11/08/2019,vendor.tech.935@yahoo.com,ACC-5654,Oracle,Ravi K.,Clean
+VND-0360,Vendor Solutions 604,Marketing,USA,AMER,Active,21/04/2022,25/06/2022,vendor.solutions.604@yahoo.com,ACC-1029,Legacy System,Sarah L.,Clean
+VND-0315,Vendor Delta 644,Legal,USA,AMER,Under Review,18/12/2023,07/04/2024,vendor.delta.644@gmail.com,ACC-2646,Oracle,Priya S.,Clean
+VND-0763,Vendor Omega 138,Finance,Singapore,APAC,Active,24/03/2020,09/01/2021,vendor.omega.138@vendor.com,ACC-9837,Legacy System,James T.,Clean
+VND-0862,Vendor Prime 133,Legal,Australia,APAC,Inactive,28/04/2020,18/04/2021,vendor.prime.133@yahoo.com,ACC-8461,Legacy System,Priya S.,Clean
+VND-0024,Vendor Ltd 772,Marketing,USA,AMER,Active,12/06/2024,13/02/2025,vendor.ltd.772@yahoo.com,ACC-7570,SAP,Ravi K.,Clean
+VND-0031,Vendor Delta 519,Finance,USA,AMER,Under Review,09/10/2019,11/02/2020,vendor.delta.519@outlook.com,ACC-5669,Oracle,James T.,Clean
+VND-0539,Vendor Alpha 273,Marketing,Germany,EMEA,Active,09/04/2024,10/07/2024,vendor.alpha.273@yahoo.com,ACC-5097,Legacy System,Priya S.,Clean
+VND-0534,Vendor Beta 433,Legal,USA,AMER,Active,18/01/2022,12/06/2022,noatsign.com,ACC-5404,Legacy System,Ravi K.,Clean
+VND-0219,Vendor Solutions 790,Logistics,India,APAC,Under Review,08/10/2020,04/05/2021,,ACC-8822,Oracle,Anita M.,Clean
+VND-0443,Vendor Group 816,Marketing,Singapore,APAC,Active,12/07/2019,23/01/2020,vendor.group.816@vendor.com,ACC-7825,Manual Entry,Sarah L.,Clean
+VND-0089,Vendor Tech 447,Legal,Canada,AMER,Active,09/01/2020,05/09/2020,vendor.tech.447@outlook.com,ACC-7690,Manual Entry,Anita M.,Clean
+VND-0319,Vendor Solutions 609,IT,Australia,APAC,Inactive,19/02/2019,22/08/2019,vendor.solutions.609@outlook.com,ACC-3162,Legacy System,Sarah L.,Clean
+VND-0540,Vendor Beta 998,Marketing,Singapore,APAC,Active,20/12/2023,24/04/2024,vendor.beta.998@gmail.com,ACC-4263,Legacy System,,Clean
+VND-0709,Vendor Zeta 245,Operations,India,APAC,Active,09/05/2021,01/09/2021,vendor.zeta.245@outlook.com,ACC-6778,Manual Entry,Sarah L.,Clean
+VND-0589,Vendor Prime 764,Marketing,Singapore,APAC,Under Review,26/01/2022,13/04/2022,vendor.prime.764@yahoo.com,ACC-2749,Oracle,Ravi K.,Clean
+VND-0842,Vendor Corp 774,IT,India,APAC,Inactive,22/02/2020,05/12/2020,vendor.corp.774@gmail.com,ACC-9311,SAP,Ravi K.,Clean
+VND-0545,Vendor Delta 162,HR,India,APAC,Active,18/10/2022,03/09/2023,vendor.delta.162@gmail.com,ACC-1979,Manual Entry,,Clean
+VND-0216,Vendor Group 824,Logistics,UK,EMEA,Active,20/11/2019,15/05/2020,vendor.group.824@vendor.com,ACC-5201,Legacy System,Ravi K.,Clean
+VND-0108,Vendor Omega 707,Finance,Germany,EMEA,Inactive,26/03/2021,08/10/2021,vendor.omega.707@vendor.com,ACC-2747,Oracle,James T.,Clean
+VND-0775,Vendor Solutions 721,Operations,Canada,AMER,Active,06/08/2024,23/11/2024,vendor.solutions.721@vendor.com,ACC-5389,Legacy System,Sarah L.,Clean
+VND-0446,Vendor Alpha 439,Finance,Australia,APAC,Active,21/10/2020,16/08/2021,vendor.alpha.439@outlook.com,ACC-1092,Manual Entry,James T.,Clean
+VND-0281,Vendor Solutions 681,Finance,USA,AMER,Active,01/07/2019,14/04/2020,vendor.solutions.681@vendor.com,ACC-6432,Legacy System,Priya S.,Clean
+VND-0372,Vendor Global 397,Logistics,UK,EMEA,Inactive,22/02/2023,28/05/2023,vendor.global.397@vendor.com,ACC-1731,Manual Entry,James T.,Clean
+VND-0328,Vendor Global 369,IT,Germany,EMEA,Inactive,14/11/2020,21/05/2021,vendor.global.369@yahoo.com,ACC-5179,SAP,Sarah L.,Clean
+VND-0232,Vendor Prime 829,IT,Germany,EMEA,Active,29/08/2023,18/04/2024,vendor.prime.829@corp.net,ACC-1945,Legacy System,,Clean
+VND-0693,Vendor Alpha 948,Operations,USA,AMER,Active,30/04/2019,03/01/2020,vendor.alpha.948@corp.net,ACC-2901,SAP,Ravi K.,Clean
+VND-0040,Vendor Corp 482,Logistics,USA,AMER,Inactive,29/02/2024,26/08/2024,vendor.corp.482@outlook.com,ACC-4728,Oracle,Priya S.,Clean
+VND-0755,Vendor Prime 536,Legal,Singapore,APAC,Active,10/08/2020,28/02/2021,vendor.prime.536@vendor.com,ACC-2666,Oracle,Priya S.,Clean
+VND-0311,Vendor Solutions 94,Legal,India,APAC,Active,07/05/2024,15/06/2024,vendor.solutions.94@yahoo.com,ACC-4705,Legacy System,Priya S.,Clean
+VND-0262,Vendor Ltd 44,Logistics,USA,AMER,Under Review,01/05/2024,16/09/2024,vendor.ltd.44@gmail.com,ACC-2218,Manual Entry,Sarah L.,Clean
+VND-0592,Vendor Prime 141,Logistics,USA,AMER,Active,01/08/2023,08/08/2023,vendor.prime.141@outlook.com,ACC-7767,Oracle,,Clean
+VND-0060,Vendor Tech 578,Legal,India,APAC,Active,22/10/2023,30/12/2023,vendor.tech.578@vendor.com,ACC-3977,SAP,Anita M.,Clean
+VND-0568,Vendor Epsilon 537,IT,UK,EMEA,Active,04/09/2020,18/02/2021,vendor.epsilon.537@corp.net,ACC-4617,Oracle,Priya S.,Clean
+VND-0137,Vendor Services 649,IT,India,APAC,Inactive,31/05/2021,09/12/2021,vendor.services.649@vendor.com,ACC-8432,Manual Entry,Ravi K.,Clean
+VND-0097,Vendor Epsilon 841,IT,UK,EMEA,Inactive,28/06/2024,12/09/2024,vendor.epsilon.841@vendor.com,ACC-9824,Legacy System,Anita M.,Clean
+VND-0297,Vendor Group 469,Operations,Singapore,APAC,Inactive,21/07/2024,28/04/2025,vendor.group.469@corp.net,ACC-2854,SAP,Anita M.,Clean
+VND-0920,Vendor Prime 184,Finance,Singapore,APAC,Active,02/06/2024,10/02/2025,vendor.prime.184@vendor.com,ACC-5396,Legacy System,,Clean
+VND-0433,Vendor Corp 689,Operations,India,APAC,Inactive,20/01/2024,10/09/2024,vendor.corp.689@corp.net,,Oracle,James T.,Clean
+VND-0260,Vendor Corp 869,IT,Singapore,APAC,Under Review,10/05/2019,26/06/2019,vendor.corp.869@vendor.com,ACC-7213,Legacy System,Sarah L.,Clean
+VND-0759,Vendor Beta 756,IT,Canada,AMER,Active,20/04/2019,20/07/2019,vendor.beta.756@vendor.com,ACC-6356,Oracle,Anita M.,Clean
+VND-0786,Vendor Prime 733,Finance,Canada,AMER,Under Review,23/05/2019,26/04/2020,vendor.prime.733@gmail.com,ACC-4926,Manual Entry,Sarah L.,Clean
+VND-0071,Vendor Group 265,Finance,UK,EMEA,Inactive,05/02/2022,16/11/2022,vendor.group.265@gmail.com,ACC-9464,Oracle,Priya S.,Clean
+VND-0722,Vendor Gamma 5,Legal,Australia,APAC,Under Review,15/06/2023,15/08/2023,vendor.gamma.5@outlook.com,ACC-8764,Manual Entry,Sarah L.,Clean
+VND-0310,Vendor Solutions 370,Finance,India,APAC,Active,08/11/2020,04/12/2020,vendor.solutions.370@vendor.com,ACC-6005,Oracle,James T.,Clean
+VND-0586,Vendor Ltd 620,Finance,Germany,EMEA,Active,26/04/2021,26/03/2022,vendor.ltd.620@yahoo.com,ACC-9869,Oracle,Ravi K.,Clean
+VND-0278,Vendor Delta 449,Marketing,UK,EMEA,Inactive,11/10/2019,07/05/2020,vendor.delta.449@vendor.com,ACC-3280,Manual Entry,Ravi K.,Clean
+VND-0685,Vendor Beta 281,Logistics,Canada,AMER,Active,24/02/2023,04/12/2023,vendor.beta.281@yahoo.com,ACC-8187,Oracle,Sarah L.,Clean
+VND-0689,Vendor Beta 643,Marketing,Canada,AMER,Active,12/09/2023,14/09/2023,vendor.beta.643@corp.net,ACC-4860,Oracle,Priya S.,Clean
+VND-0169,Vendor Alpha 263,Logistics,Canada,AMER,Active,01/12/2024,05/07/2025,vendor.alpha.263@gmail.com,ACC-5720,Oracle,Anita M.,Clean
+VND-0064,Vendor Epsilon 786,Finance,USA,AMER,Active,14/04/2020,06/07/2020,vendor.epsilon.786@outlook.com,ACC-2771,SAP,Anita M.,Clean
+VND-0810,Vendor Zeta 96,Logistics,Canada,AMER,Active,20/11/2020,07/08/2021,vendor.zeta.96@outlook.com,ACC-4479,SAP,Sarah L.,Clean
+VND-0175,Vendor Gamma 851,Marketing,Singapore,APAC,Active,14/05/2024,02/04/2025,vendor.gamma.851@yahoo.com,ACC-3209,SAP,,Clean
+VND-0591,Vendor Beta 705,Marketing,Germany,EMEA,Active,04/04/2024,03/04/2025,vendor.beta.705@outlook.com,ACC-4014,Legacy System,James T.,Clean
+VND-0630,Vendor Gamma 30,HR,Singapore,APAC,Active,21/04/2023,18/05/2023,vendor.gamma.30@gmail.com,ACC-7987,Legacy System,Ravi K.,Clean
+VND-0821,Vendor Solutions 925,Finance,Canada,AMER,Active,18/10/2023,17/03/2024,vendor.solutions.925@corp.net,ACC-1781,SAP,Priya S.,Clean
+VND-0760,Vendor Tech 639,IT,Canada,AMER,Active,15/06/2023,09/07/2025,vendor.tech.639@vendor.com,ACC-4308,Manual Entry,,Clean
+VND-0801,Vendor Solutions 663,HR,India,APAC,Active,29/06/2020,11/12/2020,vendor.solutions.663@vendor.com,,Legacy System,,Clean
+VND-0804,Vendor Omega 688,Finance,USA,AMER,Under Review,18/06/2019,10/04/2020,vendor.omega.688@yahoo.com,ACC-5264,Oracle,Sarah L.,Clean
+VND-0661,Vendor Group 945,Operations,USA,AMER,Active,17/05/2023,14/01/2024,vendor.group.945@outlook.com,ACC-3378,Legacy System,Priya S.,Clean
+VND-0849,Vendor Omega 63,HR,Canada,AMER,Active,10/09/2020,01/07/2021,vendor.omega.63@gmail.com,ACC-9516,Manual Entry,James T.,Clean
+VND-0678,Vendor Prime 753,Logistics,USA,AMER,Active,14/04/2019,11/02/2020,vendor.prime.753@yahoo.com,ACC-9015,Legacy System,Priya S.,Clean
+VND-0015,Vendor Zeta 501,IT,India,APAC,Under Review,13/06/2022,13/10/2022,vendor.zeta.501@gmail.com,ACC-4946,SAP,Priya S.,Clean
+VND-0313,Vendor Omega 92,Legal,Canada,AMER,Active,07/07/2022,11/01/2023,vendor.omega.92@outlook.com,ACC-3246,Legacy System,Ravi K.,Clean
+VND-0087,Vendor Tech 41,HR,Singapore,APAC,Active,22/10/2021,04/11/2021,vendor.tech.41@gmail.com,ACC-4750,SAP,,Clean
+VND-0276,Vendor Epsilon 753,Legal,Singapore,APAC,Active,19/09/2021,04/03/2022,vendor.epsilon.753@vendor.com,ACC-5592,Legacy System,Anita M.,Clean
+VND-0598,Vendor Prime 93,Legal,Australia,APAC,Active,08/07/2020,25/01/2021,vendor.prime.93@vendor.com,ACC-6299,Legacy System,Priya S.,Clean
+VND-0293,Vendor Omega 434,Logistics,Germany,EMEA,Active,10/12/2020,20/09/2021,vendor.omega.434@yahoo.com,ACC-9022,Manual Entry,Ravi K.,Clean
+VND-0211,Vendor Alpha 452,Finance,Germany,EMEA,Active,15/04/2021,11/11/2021,@gmail.com,ACC-8726,SAP,,Clean
+VND-0752,Vendor Group 370,Legal,UK,EMEA,Active,16/06/2019,28/07/2019,vendor.group.370@outlook.com,ACC-9088,SAP,James T.,Clean
+VND-0487,Vendor Solutions 442,Operations,Germany,EMEA,Active,27/06/2019,18/06/2020,vendor.solutions.442@corp.net,ACC-8028,Oracle,James T.,Clean
+VND-0363,Vendor Epsilon 215,Logistics,Singapore,APAC,Active,17/11/2021,11/01/2022,vendor.epsilon.215@gmail.com,ACC-1788,Legacy System,James T.,Clean
+VND-0352,Vendor Alpha 829,HR,Australia,APAC,Active,11/08/2021,31/10/2021,vendor.alpha.829@gmail.com,ACC-5060,Oracle,Anita M.,Clean
+VND-0502,Vendor Beta 516,Finance,UK,EMEA,Under Review,03/10/2024,11/02/2025,vendor.beta.516@corp.net,ACC-5098,Legacy System,James T.,Clean
+VND-0900,Vendor Ltd 822,HR,India,APAC,Active,04/11/2023,07/12/2023,vendor.ltd.822@gmail.com,ACC-1914,SAP,Anita M.,Clean
+VND-0424,Vendor Solutions 657,HR,USA,AMER,Inactive,12/08/2019,17/08/2019,vendor.solutions.657@yahoo.com,ACC-9283,Legacy System,James T.,Clean
+VND-0715,Vendor Alpha 893,Marketing,USA,AMER,Inactive,29/10/2024,24/09/2025,vendor.alpha.893@outlook.com,ACC-7745,Manual Entry,,Clean
+VND-0639,Vendor Ltd 729,Logistics,Canada,AMER,Active,11/03/2024,24/08/2024,vendor.ltd.729@corp.net,ACC-2599,Legacy System,Ravi K.,Clean
+VND-0712,Vendor Ltd 906,HR,India,APAC,Active,02/01/2021,29/05/2021,vendor.ltd.906@gmail.com,ACC-2791,Oracle,Anita M.,Clean
+VND-0833,Vendor Tech 743,Operations,Singapore,APAC,Under Review,21/06/2024,17/10/2024,noatsign.com,ACC-9655,SAP,James T.,Clean
+VND-0930,Vendor Corp 473,Finance,Canada,AMER,Active,08/02/2021,15/09/2021,vendor.corp.473@vendor.com,ACC-4433,Legacy System,James T.,Clean
+VND-0817,Vendor Group 443,Legal,Canada,AMER,Under Review,21/06/2020,21/12/2020,vendor.group.443@gmail.com,ACC-7020,Oracle,James T.,Clean
+VND-0520,Vendor Corp 696,Operations,USA,AMER,Inactive,15/12/2020,09/05/2021,vendor.corp.696@outlook.com,ACC-6326,Legacy System,,Clean
+VND-0056,Vendor Gamma 724,Logistics,India,APAC,Active,17/09/2022,21/06/2023,noatsign.com,ACC-7812,SAP,Ravi K.,Clean
+VND-0537,Vendor Services 449,Legal,India,APAC,Active,09/09/2020,16/09/2020,vendor.services.449@vendor.com,ACC-4558,Manual Entry,James T.,Clean
+VND-0686,Vendor Alpha 137,IT,Canada,AMER,Inactive,21/03/2023,09/06/2023,vendor.alpha.137@gmail.com,ACC-8978,SAP,Priya S.,Clean
+VND-0245,Vendor Omega 992,HR,Australia,APAC,Active,10/05/2023,11/09/2023,vendor.omega.992@outlook.com,ACC-4331,Manual Entry,,Clean
+VND-0073,Vendor Beta 302,Logistics,Germany,EMEA,Active,08/06/2022,13/05/2023,vendor.beta.302@corp.net,ACC-7046,Legacy System,Sarah L.,Clean
+VND-0267,Vendor Delta 365,Operations,Germany,EMEA,Active,06/04/2023,19/05/2023,vendor.delta.365@corp.net,ACC-5839,Oracle,,Clean
+VND-0045,Vendor Solutions 943,legal,Australia,APAC,Active,25/05/2020,25/10/2020,vendor.solutions.943@corp.net,ACC-6067,Legacy System,Anita M.,Clean
+VND-0121,Vendor Solutions 218,Legal,Singapore,APAC,Active,29/03/2019,23/04/2019,vendor.solutions.218@outlook.com,ACC-4990,Oracle,Sarah L.,Clean
+VND-0306,Vendor Beta 749,HR,Singapore,APAC,Active,07/01/2023,08/02/2023,vendor.beta.749@corp.net,ACC-7516,Oracle,James T.,Clean
+VND-0616,Vendor Zeta 854,Finance,Singapore,APAC,Active,27/04/2024,15/05/2024,vendor.zeta.854@yahoo.com,ACC-8888,Oracle,,Clean
+VND-0657,Vendor Gamma 932,Operations,Singapore,APAC,Active,04/01/2024,11/07/2024,vendor.gamma.932@yahoo.com,ACC-5280,Oracle,James T.,Clean
+VND-0266,Vendor Zeta 620,Marketing,Australia,APAC,Under Review,13/06/2023,27/11/2023,vendor.zeta.620@gmail.com,ACC-5478,Legacy System,James T.,Clean
+VND-0585,Vendor Gamma 90,Legal,Germany,EMEA,Active,20/07/2021,18/02/2022,vendor.gamma.90@yahoo.com,ACC-3502,Legacy System,Anita M.,Clean
+VND-0531,Vendor Alpha 536,Marketing,Canada,AMER,Inactive,09/11/2022,04/04/2023,vendor.alpha.536@vendor.com,ACC-9767,SAP,,Clean
+VND-0364,Vendor Services 430,Logistics,Germany,EMEA,Active,01/04/2023,27/09/2023,vendor.services.430@corp.net,ACC-7149,SAP,James T.,Clean
+VND-0666,Vendor Delta 743,Operations,UK,EMEA,Active,08/04/2019,19/02/2020,vendor.delta.743@gmail.com,ACC-1931,Oracle,Sarah L.,Clean
+VND-0210,Vendor Prime 175,Operations,Singapore,APAC,Under Review,07/04/2023,21/06/2023,vendor.prime.175@yahoo.com,ACC-1517,SAP,Ravi K.,Clean
+VND-0335,,Legal,Canada,AMER,Active,09/02/2019,30/07/2019,vendor.global.355@gmail.com,ACC-7164,Manual Entry,Priya S.,Clean
+VND-0850,Vendor Omega 908,Legal,Singapore,APAC,Active,31/05/2022,07/11/2022,vendor.omega.908@outlook.com,ACC-1129,Manual Entry,Sarah L.,Clean
+VND-0815,Vendor Services 73,Operations,Australia,APAC,Inactive,22/06/2023,30/10/2023,vendor.services.73@yahoo.com,ACC-4933,Legacy System,Priya S.,Clean
+VND-0747,Vendor Beta 150,Marketing,Singapore,APAC,Under Review,25/11/2022,24/05/2023,vendor.beta.150@yahoo.com,ACC-9202,Oracle,Sarah L.,Clean
+VND-0200,Vendor Alpha 298,HR,Canada,AMER,Active,13/10/2021,02/01/2022,vendor.alpha.298@outlook.com,ACC-6123,Oracle,Ravi K.,Clean
+VND-0495,Vendor Solutions 6,Marketing,India,APAC,Inactive,15/04/2024,16/02/2025,vendor.solutions.6@vendor.com,ACC-2444,SAP,Anita M.,Clean
+VND-0923,Vendor Epsilon 456,Operations,UK,EMEA,Active,18/06/2019,11/02/2020,vendor.epsilon.456@corp.net,ACC-6511,Legacy System,James T.,Clean
+VND-0457,Vendor Omega 444,Finance,India,APAC,Active,29/04/2020,27/01/2021,vendor.omega.444@gmail.com,ACC-2036,SAP,,Clean
+VND-0282,Vendor Alpha 101,Finance,USA,AMER,Active,25/10/2024,06/08/2025,vendor.alpha.101@corp.net,ACC-4621,Legacy System,Anita M.,Clean
+VND-0061,Vendor Omega 336,Logistics,Germany,EMEA,Active,02/04/2023,22/08/2023,vendor.omega.336@vendor.com,ACC-5133,SAP,James T.,Clean
+VND-0449,Vendor Gamma 426,Operations,Australia,APAC,Active,02/12/2022,25/03/2023,vendor.gamma.426@yahoo.com,ACC-6437,Manual Entry,Anita M.,Clean
+VND-0423,Vendor Corp 347,Operations,Australia,APAC,Active,26/01/2020,03/09/2020,vendor.corp.347@yahoo.com,ACC-8895,Manual Entry,,Clean
+VND-0381,Vendor Epsilon 413,Logistics,Australia,APAC,Active,04/07/2023,23/07/2023,vendor.epsilon.413@vendor.com,ACC-6431,Oracle,Priya S.,Clean
+VND-0324,Vendor Corp 245,IT,USA,AMER,Active,15/11/2023,13/01/2024,,ACC-1901,Manual Entry,,Clean
+VND-0583,Vendor Prime 403,HR,USA,AMER,Active,12/12/2022,11/06/2023,vendor.prime.403@outlook.com,ACC-4869,Manual Entry,Priya S.,Clean
+VND-0159,Vendor Zeta 317,Logistics,USA,AMER,Active,14/06/2024,20/09/2024,vendor.zeta.317@yahoo.com,ACC-3253,Oracle,Priya S.,Clean
+VND-0550,Vendor Global 376,Logistics,India,APAC,Inactive,03/09/2024,16/03/2025,vendor.global.376@yahoo.com,ACC-1306,Manual Entry,Sarah L.,Clean
+VND-0607,Vendor Gamma 166,Legal,UK,EMEA,Active,27/12/2020,17/08/2021,vendor.gamma.166@corp.net,ACC-6901,SAP,Priya S.,Clean
+VND-0199,Vendor Global 576,IT,UK,EMEA,Active,16/05/2020,29/09/2020,vendor.global.576@vendor.com,ACC-5061,Oracle,Priya S.,Clean
+VND-0757,Vendor Group 731,Marketing,Australia,APAC,Active,28/06/2023,27/12/2023,vendor.group.731@vendor.com,ACC-7626,Legacy System,Sarah L.,Clean
+VND-0111,,Finance,Singapore,APAC,Inactive,14/07/2020,,vendor.delta.636@gmail.com,ACC-1645,Manual Entry,James T.,Clean
+VND-0619,Vendor Epsilon 861,IT,UK,EMEA,Under Review,28/12/2024,22/03/2025,vendor.epsilon.861@corp.net,ACC-7382,Oracle,Sarah L.,Clean
+VND-0904,Vendor Omega 493,Legal,Australia,APAC,Active,22/09/2021,01/12/2021,vendor.omega.493@gmail.com,,Oracle,Anita M.,Clean
+VND-0889,Vendor Delta 761,IT,Canada,AMER,Active,05/01/2023,13/04/2023,vendor.delta.761@gmail.com,ACC-5967,Oracle,Ravi K.,Clean
+VND-0300,Vendor Corp 121,Marketing,Canada,AMER,Active,07/12/2022,05/12/2023,vendor.corp.121@corp.net,ACC-8015,Oracle,Sarah L.,Clean
+VND-0356,Vendor Tech 225,IT,Australia,APAC,Active,20/09/2022,31/07/2023,vendor.tech.225@yahoo.com,ACC-3137,Manual Entry,,Clean
+VND-0548,Vendor Epsilon 556,Legal,Germany,EMEA,Active,03/02/2021,08/11/2021,vendor.epsilon.556@outlook.com,ACC-6303,Legacy System,Anita M.,Clean
+VND-0383,Vendor Gamma 308,Legal,Germany,EMEA,Inactive,07/08/2022,22/12/2022,vendor.gamma.308@vendor.com,ACC-2462,Oracle,James T.,Clean
+VND-0405,,IT,UK,EMEA,Inactive,15/12/2024,22/03/2025,vendor.zeta.973@gmail.com,ACC-1067,Oracle,Ravi K.,Clean
+VND-0614,Vendor Group 653,Operations,India,APAC,Active,27/02/2022,07/07/2022,vendor.group.653@gmail.com,ACC-6042,Manual Entry,Sarah L.,Clean
+VND-0358,Vendor Corp 374,IT,UK,EMEA,Inactive,09/06/2023,04/04/2024,vendor.corp.374@gmail.com,ACC-6514,Manual Entry,Anita M.,Clean
+VND-0185,Vendor Beta 27,Legal,USA,AMER,Active,05/05/2023,16/02/2024,vendor.beta.27@gmail.com,ACC-5288,Manual Entry,,Clean
+VND-0138,Vendor Zeta 320,Legal,UK,EMEA,Inactive,14/12/2019,09/01/2020,vendor.zeta.320@yahoo.com,ACC-3579,SAP,,Clean
+VND-0452,Vendor Services 290,IT,Australia,APAC,Inactive,16/03/2023,04/12/2023,vendor.services.290@corp.net,,Legacy System,Priya S.,Clean
+VND-0543,Vendor Corp 683,Logistics,India,APAC,Active,14/11/2023,28/04/2024,vendor.corp.683@gmail.com,ACC-3742,Manual Entry,Sarah L.,Clean
+VND-0569,Vendor Solutions 750,HR,Germany,EMEA,Inactive,29/08/2024,14/10/2024,vendor.solutions.750@yahoo.com,ACC-8076,Manual Entry,James T.,Clean
+VND-0735,Vendor Omega 890,Finance,Singapore,APAC,Active,04/05/2020,11/11/2020,vendor.omega.890@corp.net,ACC-1287,Manual Entry,Ravi K.,Clean
+VND-0429,Vendor Zeta 846,IT,Canada,AMER,Active,05/02/2024,23/07/2024,vendor.zeta.846@corp.net,ACC-8751,Manual Entry,,Clean
+VND-0546,Vendor Gamma 719,Operations,Canada,AMER,Active,21/06/2024,18/10/2024,vendor.gamma.719@outlook.com,ACC-6690,Legacy System,,Clean
+VND-0860,Vendor Global 413,Operations,Australia,APAC,Active,06/06/2023,19/10/2023,vendor.global.413@corp.net,ACC-9172,Legacy System,James T.,Clean
+VND-0351,Vendor Ltd 580,Operations,UK,EMEA,Active,06/01/2021,19/01/2021,vendor@,ACC-4588,SAP,Anita M.,Clean
+VND-0645,Vendor Services 605,HR,Singapore,APAC,Active,17/04/2023,10/11/2023,vendor.services.605@vendor.com,ACC-8130,Oracle,,Clean
+VND-0911,Vendor Zeta 11,IT,UK,EMEA,Active,16/04/2020,27/06/2020,vendor.zeta.11@outlook.com,ACC-8215,Oracle,,Clean
+VND-0465,Vendor Epsilon 635,IT,USA,AMER,Active,20/01/2024,06/07/2024,vendor.epsilon.635@corp.net,ACC-6008,Oracle,Sarah L.,Clean
+VND-0079,Vendor Alpha 259,Marketing,Germany,EMEA,Active,25/09/2019,17/04/2020,vendor.alpha.259@vendor.com,ACC-2213,SAP,Ravi K.,Clean
+VND-0030,Vendor Gamma 688,Legal,UK,EMEA,Active,25/10/2019,29/10/2019,vendor.gamma.688@vendor.com,ACC-2638,SAP,Sarah L.,Clean
+VND-0683,Vendor Beta 510,Operations,Canada,AMER,Active,16/09/2019,28/12/2019,vendor.beta.510@vendor.com,ACC-6527,Legacy System,Anita M.,Clean
+VND-0236,Vendor Beta 700,Legal,Canada,AMER,Active,25/11/2022,24/01/2023,vendor.beta.700@yahoo.com,ACC-9802,Legacy System,Sarah L.,Clean
+VND-0811,Vendor Group 585,IT,Germany,EMEA,Under Review,05/10/2021,17/06/2022,plaintext,ACC-6384,SAP,Anita M.,Clean
+VND-0632,Vendor Services 777,Legal,Canada,AMER,Active,15/06/2023,06/01/2025,vendor.services.777@yahoo.com,ACC-2522,Legacy System,Priya S.,Clean
+VND-0166,Vendor Beta 970,Logistics,Canada,AMER,Active,02/12/2022,15/12/2022,vendor.beta.970@vendor.com,ACC-1872,Legacy System,Sarah L.,Clean
+VND-0552,Vendor Epsilon 331,HR,Singapore,APAC,Active,30/01/2020,23/10/2020,vendor.epsilon.331@gmail.com,ACC-1717,Oracle,Ravi K.,Clean
+VND-0717,Vendor Gamma 920,Marketing,UK,EMEA,Active,30/11/2021,26/03/2022,vendor.gamma.920@vendor.com,ACC-7093,Manual Entry,Priya S.,Clean
+VND-0066,Vendor Group 309,Marketing,Singapore,APAC,Active,10/05/2020,23/02/2021,vendor.group.309@gmail.com,ACC-6688,Legacy System,,Clean
+VND-0142,Vendor Alpha 510,Legal,Germany,EMEA,Active,07/04/2023,04/01/2024,vendor.alpha.510@yahoo.com,ACC-9196,Manual Entry,Priya S.,Clean
+VND-0214,Vendor Global 306,Logistics,UK,EMEA,Inactive,29/04/2021,17/04/2022,vendor.global.306@vendor.com,ACC-6194,Legacy System,Anita M.,Clean
+VND-0378,Vendor Omega 566,Operations,Canada,AMER,Active,20/02/2024,26/02/2024,vendor.omega.566@corp.net,ACC-9561,Legacy System,Priya S.,Clean
+VND-0295,Vendor Global 518,Legal,Germany,EMEA,Active,07/07/2024,04/02/2025,vendor.global.518@vendor.com,ACC-9006,Oracle,Priya S.,Clean
+VND-0653,Vendor Global 798,IT,Germany,EMEA,Active,05/04/2024,23/01/2025,vendor.global.798@outlook.com,ACC-7897,Manual Entry,Anita M.,Clean
+VND-0366,Vendor Alpha 327,Finance,India,APAC,Active,27/11/2020,07/06/2021,,ACC-2228,SAP,Anita M.,Clean
+VND-0437,Vendor Omega 617,Legal,Singapore,APAC,Inactive,09/07/2022,08/07/2023,vendor.omega.617@corp.net,ACC-4560,Oracle,Ravi K.,Clean
+VND-0829,Vendor Delta 447,Marketing,Singapore,APAC,Inactive,20/02/2021,05/04/2021,vendor.delta.447@outlook.com,ACC-8592,Oracle,James T.,Clean
+VND-0882,Vendor Ltd 944,HR,UK,EMEA,Active,07/04/2023,03/10/2023,vendor.ltd.944@yahoo.com,ACC-9361,Manual Entry,Priya S.,Clean
+VND-0287,Vendor Global 437,HR,USA,AMER,Inactive,25/01/2021,30/04/2021,vendor.global.437@vendor.com,ACC-7481,SAP,,Clean
+VND-0050,Vendor Prime 626,Marketing,Canada,AMER,Active,25/08/2023,12/07/2024,vendor.prime.626@corp.net,ACC-4185,Legacy System,James T.,Clean
+VND-0714,Vendor Global 955,Logistics,Germany,EMEA,Active,24/12/2023,18/11/2024,vendor.global.955@gmail.com,ACC-5776,Oracle,Priya S.,Clean
+VND-0618,Vendor Services 695,Finance,Australia,APAC,Active,03/05/2021,22/02/2022,vendor.services.695@outlook.com,ACC-6793,SAP,Ravi K.,Clean
+VND-0450,Vendor Epsilon 224,Marketing,Australia,APAC,Active,06/02/2019,05/04/2019,vendor.epsilon.224@outlook.com,ACC-8301,Oracle,,Clean
+VND-0332,Vendor Delta 824,Operations,India,APAC,Under Review,10/10/2019,04/06/2020,,ACC-6090,Manual Entry,Priya S.,Clean
+VND-0886,Vendor Ltd 10,Legal,USA,AMER,Active,25/06/2024,12/01/2025,vendor.ltd.10@corp.net,ACC-2329,SAP,Sarah L.,Clean
+VND-0527,Vendor Services 291,HR,Singapore,APAC,Active,27/11/2024,22/02/2025,vendor.services.291@gmail.com,ACC-1575,Manual Entry,Anita M.,Clean
+VND-0482,Vendor Services 678,Marketing,UK,EMEA,Under Review,06/06/2021,21/01/2022,vendor.services.678@corp.net,ACC-8723,Legacy System,Ravi K.,Clean
+VND-0099,Vendor Alpha 326,Legal,Germany,EMEA,Inactive,11/04/2023,25/10/2023,vendor.alpha.326@yahoo.com,ACC-9115,SAP,Ravi K.,Clean
+VND-0668,Vendor Gamma 260,Finance,Germany,EMEA,Active,07/11/2019,29/09/2020,vendor.gamma.260@vendor.com,ACC-5528,Legacy System,,Clean
+VND-0590,Vendor Alpha 781,Operations,Australia,APAC,Active,03/08/2021,04/06/2022,vendor.alpha.781@yahoo.com,ACC-4783,SAP,Anita M.,Clean
+VND-0034,Vendor Solutions 650,Marketing,UK,EMEA,Active,25/10/2021,20/11/2021,vendor.solutions.650@gmail.com,ACC-7939,Manual Entry,Priya S.,Clean
+VND-0032,Vendor Corp 557,Legal,UK,EMEA,Active,06/12/2024,10/12/2024,vendor.corp.557@corp.net,ACC-5905,SAP,Ravi K.,Clean
+VND-0733,Vendor Alpha 811,IT,USA,AMER,Active,19/04/2024,21/06/2024,vendor.alpha.811@outlook.com,ACC-7834,Oracle,James T.,Clean
+VND-0193,Vendor Ltd 727,Logistics,UK,EMEA,Under Review,26/10/2024,20/03/2025,vendor.ltd.727@gmail.com,ACC-5105,Oracle,,Clean
+VND-0917,Vendor Delta 944,IT,Canada,AMER,Active,13/02/2021,14/11/2021,vendor.delta.944@outlook.com,ACC-3434,Manual Entry,Ravi K.,Clean
+VND-0207,Vendor Ltd 628,Finance,USA,AMER,Active,10/05/2022,09/03/2023,vendor.ltd.628@outlook.com,ACC-9311,Legacy System,,Clean
+VND-0238,Vendor Omega 844,Logistics,USA,AMER,Active,27/09/2020,15/02/2021,,ACC-2848,SAP,,Clean
+VND-0307,Vendor Corp 217,HR,UK,EMEA,Active,07/03/2022,26/08/2022,vendor.corp.217@corp.net,ACC-3139,Legacy System,Anita M.,Clean
+VND-0828,Vendor Delta 115,Marketing,India,APAC,Active,09/02/2021,22/02/2021,vendor.delta.115@yahoo.com,ACC-8882,Oracle,,Clean
+VND-0291,Vendor Zeta 866,HR,Australia,APAC,Active,03/05/2022,13/03/2023,vendor.zeta.866@corp.net,ACC-2388,Oracle,Anita M.,Clean
+VND-0110,Vendor Corp 703,Marketing,Singapore,APAC,Under Review,27/07/2024,20/12/2024,vendor.corp.703@yahoo.com,ACC-6772,Oracle,,Clean
+VND-0884,Vendor Delta 626,Operations,Canada,AMER,Active,04/11/2022,25/09/2023,vendor.delta.626@outlook.com,,Manual Entry,Ravi K.,Clean
+VND-0078,Vendor Corp 771,HR,India,APAC,Inactive,10/03/2022,,vendor.corp.771@vendor.com,ACC-8216,Manual Entry,Ravi K.,Clean
+VND-0784,Vendor Delta 148,IT,USA,AMER,Active,29/01/2022,11/09/2022,vendor.delta.148@vendor.com,ACC-5166,SAP,James T.,Clean
+VND-0881,Vendor Omega 985,Operations,Germany,EMEA,Active,18/03/2024,29/01/2025,vendor.omega.985@outlook.com,ACC-3742,SAP,Priya S.,Clean
+VND-0083,Vendor Omega 462,Legal,Australia,APAC,Active,14/05/2019,09/09/2019,vendor.omega.462@outlook.com,ACC-5632,Legacy System,Priya S.,Clean
+VND-0517,Vendor Global 547,Legal,UK,EMEA,Inactive,13/05/2022,18/09/2022,vendor.global.547@corp.net,ACC-1781,Legacy System,Priya S.,Clean
+VND-0329,Vendor Solutions 741,IT,USA,AMER,Inactive,11/01/2019,02/02/2019,vendor.solutions.741@gmail.com,ACC-5006,SAP,James T.,Clean
+VND-0345,Vendor Gamma 203,Marketing,Germany,EMEA,Active,11/12/2019,04/10/2020,vendor.gamma.203@corp.net,ACC-5240,SAP,Priya S.,Clean
+VND-0787,Vendor Omega 317,Legal,Singapore,APAC,Active,14/05/2020,11/02/2021,vendor.omega.317@yahoo.com,ACC-8248,Legacy System,Priya S.,Clean
+VND-0905,Vendor Tech 447,Operations,Singapore,APAC,Inactive,28/06/2022,22/04/2023,vendor.tech.447@corp.net,ACC-3385,Oracle,James T.,Clean
+VND-0389,Vendor Alpha 167,Marketing,Australia,APAC,Inactive,27/05/2021,17/09/2021,vendor.alpha.167@yahoo.com,ACC-4387,Manual Entry,,Clean
+VND-0003,Vendor Prime 604,Finance,Canada,AMER,Inactive,15/10/2020,07/10/2021,vendor.prime.604@vendor.com,ACC-6574,Manual Entry,Ravi K.,Clean
+VND-0102,Vendor Beta 873,Finance,Canada,AMER,Active,25/12/2024,07/07/2025,vendor.beta.873@outlook.com,ACC-8994,SAP,Sarah L.,Clean
+VND-0665,Vendor Alpha 689,IT,Canada,AMER,Active,12/08/2023,01/10/2023,vendor.alpha.689@corp.net,ACC-2702,Legacy System,Anita M.,Clean
+VND-0346,Vendor Beta 203,Legal,Germany,EMEA,Inactive,12/01/2020,29/06/2020,vendor.beta.203@gmail.com,ACC-1699,Legacy System,Priya S.,Clean
+VND-0261,Vendor Prime 58,Legal,India,APAC,Inactive,05/12/2019,16/08/2020,vendor.prime.58@vendor.com,ACC-6427,SAP,Sarah L.,Clean
+VND-0209,Vendor Corp 705,Legal,India,APAC,Active,23/12/2021,23/11/2022,vendor.corp.705@corp.net,ACC-4728,SAP,Sarah L.,Clean
+VND-0697,Vendor Services 199,Legal,UK,EMEA,Under Review,08/04/2021,26/09/2021,vendor.services.199@yahoo.com,ACC-1525,SAP,Anita M.,Clean
+VND-0006,Vendor Delta 722,IT,India,APAC,Active,31/03/2022,10/05/2022,vendor.delta.722@yahoo.com,ACC-2654,Legacy System,Anita M.,Clean
+VND-0055,Vendor Services 293,Logistics,UK,EMEA,Active,27/11/2019,05/02/2020,vendor.services.293@yahoo.com,ACC-4788,Legacy System,,Clean
+VND-0558,Vendor Beta 785,Legal,Australia,APAC,Active,22/02/2024,15/02/2025,vendor.beta.785@vendor.com,ACC-2705,Oracle,Ravi K.,Clean
+VND-0854,Vendor Corp 793,Finance,Singapore,APAC,Active,31/08/2024,26/10/2024,vendor.corp.793@gmail.com,ACC-7110,Manual Entry,,Clean
+VND-0382,Vendor Services 487,Finance,UK,EMEA,Active,26/05/2022,01/11/2022,vendor.services.487@outlook.com,ACC-9054,SAP,Ravi K.,Clean
+VND-0835,Vendor Services 447,Finance,USA,AMER,Active,26/02/2021,24/10/2021,vendor.services.447@outlook.com,ACC-8178,Oracle,Sarah L.,Clean
+VND-0098,Vendor Zeta 566,Marketing,Australia,APAC,Active,11/08/2022,15/11/2022,vendor.zeta.566@yahoo.com,ACC-7274,Oracle,James T.,Clean
+VND-0595,Vendor Beta 463,HR,Canada,AMER,Inactive,03/10/2021,25/06/2022,vendor.beta.463@corp.net,ACC-7481,SAP,Sarah L.,Clean
+VND-0205,Vendor Beta 404,Finance,Canada,AMER,Under Review,06/02/2023,20/04/2023,vendor.beta.404@yahoo.com,ACC-9341,Legacy System,Sarah L.,Clean
+VND-0255,Vendor Gamma 863,Legal,USA,AMER,Active,10/09/2020,14/09/2020,vendor.gamma.863@yahoo.com,ACC-9285,Legacy System,Anita M.,Clean
+VND-0626,Vendor Group 675,Legal,UK,EMEA,Active,02/07/2022,25/05/2023,vendor.group.675@yahoo.com,ACC-6257,Oracle,Ravi K.,Clean
+VND-0941,Vendor Tech 41,Legal,India,APAC,Active,13/02/2024,08/08/2024,vendor.tech.41@outlook.com,ACC-7407,Oracle,James T.,Clean
+VND-0387,Vendor Global 407,Legal,India,APAC,Active,17/09/2021,26/03/2022,vendor.global.407@vendor.com,ACC-8308,Oracle,James T.,Clean
+VND-0855,Vendor Global 363,IT,India,APAC,Inactive,25/05/2020,09/01/2021,vendor.global.363@outlook.com,ACC-1085,Legacy System,Anita M.,Clean
+VND-0851,Vendor Tech 943,Logistics,Singapore,APAC,Active,20/04/2021,23/01/2022,vendor.tech.943@corp.net,ACC-8244,Manual Entry,,Clean
+VND-0026,Vendor Epsilon 223,IT,Australia,APAC,Inactive,07/09/2019,14/02/2020,vendor.epsilon.223@gmail.com,ACC-1821,Legacy System,Sarah L.,Clean
+VND-0085,Vendor Gamma 931,Finance,Canada,AMER,Active,02/09/2019,25/11/2019,vendor.gamma.931@outlook.com,ACC-5728,Legacy System,Priya S.,Clean
+VND-0011,Vendor Gamma 522,HR,India,APAC,Inactive,25/03/2020,11/06/2020,vendor.gamma.522@yahoo.com,ACC-7916,SAP,James T.,Clean
+VND-0644,Vendor Ltd 563,IT,India,APAC,Inactive,11/01/2023,08/03/2023,vendor.ltd.563@outlook.com,ACC-1510,Oracle,James T.,Clean
+VND-0448,Vendor Global 367,IT,Canada,AMER,Inactive,22/11/2024,14/03/2025,vendor.global.367@yahoo.com,ACC-9529,SAP,Sarah L.,Clean
+VND-0409,Vendor Gamma 217,Legal,India,APAC,Active,23/11/2020,25/01/2021,vendor.gamma.217@outlook.com,ACC-1612,Legacy System,,Clean
+VND-0362,Vendor Zeta 764,IT,USA,AMER,Active,01/08/2022,25/10/2022,vendor.zeta.764@gmail.com,ACC-6500,Legacy System,Priya S.,Clean
+VND-0468,Vendor Zeta 794,Finance,Germany,EMEA,Active,20/12/2020,15/11/2021,vendor.zeta.794@corp.net,ACC-2343,Manual Entry,Ravi K.,Clean
+VND-0535,Vendor Corp 71,Logistics,USA,AMER,Active,09/02/2024,21/12/2024,vendor.corp.71@vendor.com,ACC-5458,Legacy System,Ravi K.,Clean
+VND-0486,Vendor Tech 40,Marketing,Australia,APAC,Active,26/04/2020,12/06/2020,vendor.tech.40@vendor.com,ACC-3135,SAP,,Clean
+VND-0248,Vendor Delta 960,Logistics,Singapore,APAC,Active,15/05/2024,16/09/2024,vendor.delta.960@corp.net,ACC-4350,Legacy System,Ravi K.,Clean
+VND-0119,Vendor Tech 418,Finance,India,APAC,Active,08/06/2021,21/01/2022,vendor.tech.418@vendor.com,ACC-4868,Manual Entry,Priya S.,Clean
+VND-0347,Vendor Gamma 947,Operations,Germany,EMEA,Inactive,06/06/2023,15/02/2024,vendor.gamma.947@gmail.com,ACC-7270,Legacy System,Ravi K.,Clean
+VND-0251,Vendor Alpha 577,Marketing,USA,AMER,Inactive,08/03/2019,19/07/2019,vendor.alpha.577@corp.net,ACC-7841,Manual Entry,Ravi K.,Clean
+VND-0469,Vendor Ltd 552,Logistics,UK,EMEA,Inactive,10/11/2019,18/12/2019,vendor.ltd.552@gmail.com,ACC-9309,SAP,Sarah L.,Clean
+VND-0507,Vendor Services 205,Logistics,Singapore,APAC,Active,23/12/2021,07/04/2022,vendor.services.205@yahoo.com,ACC-4322,Oracle,Sarah L.,Clean
+VND-0197,Vendor Delta 825,Marketing,Singapore,APAC,Active,01/02/2024,09/03/2024,vendor.delta.825@gmail.com,ACC-3589,Legacy System,James T.,Clean
+VND-0594,Vendor Omega 415,Marketing,India,APAC,Active,08/04/2023,15/09/2023,vendor.omega.415@vendor.com,ACC-9784,SAP,Sarah L.,Clean
+VND-0082,Vendor Solutions 217,Finance,Singapore,APAC,Active,09/09/2021,06/12/2021,vendor.solutions.217@corp.net,,Oracle,Priya S.,Clean
+VND-0430,Vendor Prime 117,IT,Canada,AMER,Active,09/01/2019,02/07/2019,vendor.prime.117@outlook.com,ACC-5783,Manual Entry,,Clean
+VND-0454,Vendor Beta 216,Legal,Singapore,APAC,Inactive,04/10/2023,26/11/2023,vendor.beta.216@yahoo.com,ACC-9810,Legacy System,,Clean
+VND-0623,Vendor Gamma 195,Finance,Germany,EMEA,Inactive,14/11/2024,21/04/2025,vendor.gamma.195@outlook.com,ACC-3347,SAP,Sarah L.,Clean
+VND-0240,Vendor Solutions 721,Marketing,India,APAC,Active,01/07/2019,22/01/2020,vendor.solutions.721@vendor.com,ACC-4839,Oracle,Priya S.,Clean
+VND-0333,Vendor Global 468,IT,UK,EMEA,Active,29/05/2022,12/04/2023,vendor.global.468@yahoo.com,ACC-8600,Manual Entry,Sarah L.,Clean
+VND-0212,Vendor Gamma 532,Logistics,Australia,APAC,Active,13/05/2024,06/02/2025,vendor.gamma.532@vendor.com,ACC-6140,Oracle,James T.,Clean
+VND-0705,Vendor Group 142,Marketing,Singapore,APAC,Active,26/02/2023,12/01/2024,vendor.group.142@vendor.com,ACC-1022,SAP,James T.,Clean
+VND-0514,Vendor Omega 718,Marketing,UK,EMEA,Active,29/06/2023,19/11/2023,vendor.omega.718@vendor.com,ACC-3947,Oracle,Sarah L.,Clean
+VND-0906,Vendor Epsilon 618,Finance,UK,EMEA,Active,03/02/2019,26/10/2019,vendor.epsilon.618@corp.net,ACC-3369,SAP,Ravi K.,Clean
+VND-0228,Vendor Beta 655,Finance,UK,EMEA,Active,16/06/2021,23/08/2021,vendor.beta.655@vendor.com,ACC-3509,Legacy System,,Clean
+VND-0858,Vendor Zeta 529,Operations,USA,AMER,Inactive,19/01/2023,,vendor.zeta.529@gmail.com,ACC-3401,Legacy System,James T.,Clean
+VND-0322,Vendor Omega 85,Legal,Australia,APAC,Active,17/09/2020,06/02/2021,vendor.omega.85@gmail.com,ACC-6077,SAP,Sarah L.,Clean
+VND-0782,Vendor Corp 144,Logistics,India,APAC,Active,11/08/2024,11/10/2024,vendor.corp.144@corp.net,ACC-9605,Manual Entry,James T.,Clean
+VND-0479,Vendor Services 837,IT,Singapore,APAC,Active,14/09/2022,11/11/2022,vendor.services.837@vendor.com,ACC-8844,Legacy System,Ravi K.,Clean
+VND-0371,Vendor Epsilon 84,HR,Canada,AMER,Active,17/06/2023,13/02/2024,vendor.epsilon.84@vendor.com,ACC-5341,SAP,,Clean
+VND-0343,Vendor Delta 992,Finance,Germany,EMEA,Active,09/05/2022,19/09/2022,vendor.delta.992@yahoo.com,ACC-1509,Legacy System,James T.,Clean
+VND-0530,Vendor Global 233,Marketing,India,APAC,Active,07/02/2023,06/09/2023,vendor.global.233@outlook.com,ACC-3551,Manual Entry,Priya S.,Clean
+VND-0299,Vendor Services 850,Legal,Canada,AMER,Active,13/05/2019,29/12/2019,vendor.services.850@outlook.com,ACC-6711,SAP,James T.,Clean
+VND-0603,Vendor Alpha 638,Marketing,UK,EMEA,Active,31/07/2024,12/04/2025,vendor.alpha.638@corp.net,ACC-1094,Legacy System,Ravi K.,Clean
+VND-0008,Vendor Services 251,Logistics,Germany,EMEA,Active,18/06/2021,03/06/2022,vendor.services.251@outlook.com,ACC-1916,Oracle,Priya S.,Clean
+VND-0156,Vendor Epsilon 742,Marketing,Singapore,APAC,Under Review,07/09/2020,24/02/2021,vendor.epsilon.742@gmail.com,ACC-3317,Manual Entry,Anita M.,Clean
+VND-0532,Vendor Ltd 504,Marketing,Germany,EMEA,Active,30/10/2023,27/03/2024,vendor.ltd.504@corp.net,ACC-4788,SAP,Sarah L.,Clean
+VND-0845,Vendor Delta 855,Marketing,Germany,EMEA,Active,30/08/2024,25/11/2024,vendor.delta.855@gmail.com,ACC-5358,Manual Entry,,Clean
+VND-0636,Vendor Corp 732,Marketing,India,APAC,Active,18/10/2019,20/03/2020,vendor.corp.732@corp.net,ACC-8552,Legacy System,Sarah L.,Clean
+VND-0925,Vendor Delta 272,Legal,India,APAC,Active,04/12/2019,02/05/2020,vendor.delta.272@corp.net,ACC-9401,SAP,Anita M.,Clean
+VND-0867,Vendor Epsilon 580,HR,UK,EMEA,Inactive,30/04/2024,06/03/2025,vendor.epsilon.580@yahoo.com,ACC-3269,Legacy System,James T.,Clean
+VND-0785,Vendor Global 384,Legal,India,APAC,Active,02/10/2023,01/06/2024,vendor.global.384@yahoo.com,ACC-5550,Oracle,Anita M.,Clean
+VND-0758,Vendor Epsilon 151,Marketing,Germany,EMEA,Active,23/10/2021,30/06/2022,vendor.epsilon.151@vendor.com,ACC-4781,Oracle,Priya S.,Clean
+VND-0931,Vendor Corp 572,IT,UK,EMEA,Active,09/06/2020,12/11/2020,vendor.corp.572@gmail.com,ACC-9188,Manual Entry,Anita M.,Clean
+VND-0916,Vendor Gamma 904,Logistics,Canada,AMER,Active,21/12/2024,02/07/2025,vendor.gamma.904@outlook.com,ACC-6209,Legacy System,,Clean
+VND-0395,Vendor Group 878,Marketing,Canada,AMER,Active,02/08/2022,16/07/2023,vendor.group.878@yahoo.com,ACC-1417,Legacy System,Anita M.,Clean
+VND-0856,Vendor Delta 825,Legal,Australia,APAC,Active,24/12/2024,24/10/2025,vendor.delta.825@yahoo.com,ACC-6739,Manual Entry,Anita M.,Clean
+VND-0679,Vendor Group 554,Legal,UK,EMEA,Active,15/01/2024,23/01/2024,vendor.group.554@gmail.com,ACC-6558,SAP,Anita M.,Clean
+VND-0498,Vendor Alpha 803,Operations,Australia,APAC,Active,06/08/2021,16/06/2022,vendor.alpha.803@yahoo.com,ACC-1590,Manual Entry,Ravi K.,Clean
+VND-0797,Vendor Zeta 175,Operations,India,APAC,Active,23/11/2024,03/07/2025,vendor.zeta.175@vendor.com,ACC-9096,SAP,Ravi K.,Clean
+VND-0515,Vendor Solutions 235,Marketing,India,APAC,Inactive,23/08/2021,03/06/2022,vendor.solutions.235@vendor.com,ACC-7240,Oracle,Ravi K.,Clean
+VND-0229,Vendor Tech 383,HR,Singapore,APAC,Active,12/04/2024,12/01/2025,vendor.tech.383@yahoo.com,ACC-5054,SAP,Sarah L.,Clean
+VND-0334,Vendor Prime 792,Marketing,USA,AMER,Inactive,01/10/2021,17/12/2021,vendor.prime.792@gmail.com,ACC-7718,SAP,Ravi K.,Clean
+VND-0716,Vendor Solutions 806,Finance,Germany,EMEA,Active,11/12/2024,17/09/2025,vendor.solutions.806@vendor.com,ACC-8503,Manual Entry,Sarah L.,Clean
+VND-0213,,Finance,Australia,APAC,Active,18/12/2021,26/10/2022,vendor.ltd.546@vendor.com,ACC-4150,Oracle,Anita M.,Clean
+VND-0080,Vendor Gamma 831,Operations,UK,EMEA,Active,13/10/2021,12/12/2021,vendor.gamma.831@corp.net,ACC-7818,Oracle,Sarah L.,Clean
+VND-0149,Vendor Ltd 904,Operations,Singapore,APAC,Active,16/08/2022,03/07/2023,vendor.ltd.904@outlook.com,ACC-3473,Legacy System,Priya S.,Clean
+VND-0303,Vendor Epsilon 888,Legal,USA,AMER,Inactive,27/06/2020,01/11/2020,vendor.epsilon.888@yahoo.com,ACC-6277,Oracle,,Clean
+VND-0484,Vendor Solutions 351,HR,Australia,APAC,Active,30/07/2021,08/02/2022,vendor.solutions.351@vendor.com,ACC-3166,SAP,Priya S.,Clean
+VND-0494,Vendor Gamma 103,Logistics,Australia,APAC,Active,18/10/2022,26/07/2023,vendor.gamma.103@corp.net,ACC-1852,Oracle,James T.,Clean
+VND-0463,Vendor Gamma 688,Marketing,Australia,APAC,Inactive,04/03/2024,28/01/2025,vendor.gamma.688@corp.net,ACC-2198,Manual Entry,,Clean
+VND-0320,Vendor Omega 375,Operations,Singapore,APAC,Active,13/04/2024,20/05/2024,vendor.omega.375@gmail.com,ACC-2106,SAP,Anita M.,Clean
+VND-0134,Vendor Tech 520,Logistics,USA,AMER,Active,07/07/2021,31/08/2021,vendor.tech.520@outlook.com,ACC-7022,SAP,Anita M.,Clean
+VND-0794,Vendor Corp 753,Logistics,UK,EMEA,Active,03/09/2022,25/01/2023,vendor.corp.753@yahoo.com,ACC-2382,Legacy System,Anita M.,Clean
+VND-0312,Vendor Alpha 713,Finance,Canada,AMER,Active,26/09/2023,15/09/2024,vendor.alpha.713@yahoo.com,ACC-8826,SAP,Ravi K.,Clean
+VND-0597,Vendor Prime 171,HR,UK,EMEA,Active,12/08/2019,30/07/2020,vendor.prime.171@corp.net,ACC-3330,Legacy System,,Clean
+VND-0681,Vendor Alpha 754,Logistics,Germany,EMEA,Active,14/04/2024,24/02/2025,vendor.alpha.754@gmail.com,ACC-4976,Oracle,Priya S.,Clean
+VND-0001,Vendor Solutions 115,IT,Singapore,APAC,Active,03/07/2021,12/09/2021,vendor.solutions.115@gmail.com,ACC-9935,SAP,Sarah L.,Clean
+VND-0317,Vendor Global 616,Operations,Singapore,APAC,Active,01/03/2020,22/03/2020,vendor.global.616@outlook.com,ACC-4366,Oracle,,Clean
+VND-0694,Vendor Services 456,Operations,Australia,APAC,Active,25/03/2021,06/03/2022,vendor.services.456@outlook.com,ACC-4769,SAP,Anita M.,Clean
+VND-0577,Vendor Prime 24,Finance,USA,AMER,Inactive,17/05/2021,,vendor.prime.24@corp.net,ACC-9573,Manual Entry,Sarah L.,Clean
+VND-0932,Vendor Delta 430,HR,Singapore,APAC,Inactive,12/05/2022,25/10/2022,vendor.delta.430@corp.net,ACC-1380,SAP,Ravi K.,Clean
+VND-0523,Vendor Zeta 669,Finance,Singapore,APAC,Active,08/06/2023,24/10/2023,vendor.zeta.669@vendor.com,ACC-6950,Legacy System,James T.,Clean
+VND-0907,Vendor Global 839,Finance,Australia,APAC,Inactive,25/09/2023,19/03/2024,vendor.global.839@yahoo.com,ACC-4282,Oracle,Priya S.,Clean
+VND-0353,Vendor Global 836,Marketing,Singapore,APAC,Active,17/06/2021,07/04/2022,vendor.global.836@vendor.com,ACC-6813,Oracle,Ravi K.,Clean
+VND-0173,Vendor Corp 482,IT,Singapore,APAC,Active,10/03/2023,17/07/2023,vendor.corp.482@gmail.com,ACC-6850,SAP,Anita M.,Clean
+VND-0126,Vendor Delta 969,Operations,India,APAC,Inactive,05/11/2024,08/04/2025,vendor.delta.969@vendor.com,ACC-1510,SAP,James T.,Clean
+VND-0634,Vendor Epsilon 935,Finance,Germany,EMEA,Active,15/09/2022,28/02/2023,vendor.epsilon.935@vendor.com,ACC-8987,SAP,Priya S.,Clean
+VND-0399,Vendor Beta 228,Finance,USA,AMER,Inactive,11/06/2022,12/01/2023,,ACC-7089,Manual Entry,Sarah L.,Clean
+VND-0885,Vendor Solutions 330,Finance,USA,AMER,Active,07/09/2022,15/09/2022,vendor.solutions.330@yahoo.com,ACC-1033,Legacy System,Priya S.,Clean
+VND-0091,Vendor Zeta 259,Finance,India,APAC,Under Review,14/07/2023,02/04/2024,vendor.zeta.259@gmail.com,ACC-9889,Legacy System,James T.,Clean
+VND-0921,Vendor Ltd 810,Operations,Singapore,APAC,Active,18/06/2021,29/09/2021,vendor.ltd.810@vendor.com,ACC-4840,Legacy System,Ravi K.,Clean
+VND-0182,Vendor Solutions 653,HR,UK,EMEA,Active,17/10/2020,01/11/2020,vendor.solutions.653@yahoo.com,ACC-8179,SAP,Ravi K.,Clean
+VND-0275,Vendor Tech 140,Finance,UK,EMEA,Active,02/04/2021,03/12/2021,vendor.tech.140@outlook.com,ACC-3910,Legacy System,Anita M.,Clean
+VND-0877,Vendor Corp 922,IT,India,APAC,Active,26/08/2021,05/05/2022,vendor.corp.922@corp.net,ACC-9264,Legacy System,Priya S.,Clean
+VND-0070,Vendor Tech 625,Legal,Germany,EMEA,Active,17/07/2024,30/12/2024,vendor.tech.625@yahoo.com,ACC-8988,Oracle,Anita M.,Clean
+VND-0292,Vendor Beta 245,Finance,India,APAC,Active,02/08/2020,20/04/2021,vendor.beta.245@vendor.com,ACC-7852,Oracle,Sarah L.,Clean
+VND-0132,Vendor Beta 763,Legal,UK,EMEA,Inactive,03/09/2019,29/06/2020,vendor.beta.763@corp.net,ACC-6400,SAP,James T.,Clean
+VND-0301,Vendor Gamma 804,Logistics,Canada,AMER,Active,01/09/2019,18/06/2020,vendor.gamma.804@outlook.com,ACC-9720,Manual Entry,Sarah L.,Clean
+VND-0698,Vendor Gamma 114,Marketing,Germany,EMEA,Active,02/12/2020,26/05/2021,vendor.gamma.114@yahoo.com,ACC-5835,Oracle,,Clean
+VND-0327,Vendor Zeta 827,HR,UK,EMEA,Active,13/12/2021,12/12/2022,vendor.zeta.827@corp.net,ACC-2262,Legacy System,James T.,Clean
+VND-0145,Vendor Omega 865,IT,USA,AMER,Active,29/06/2023,23/03/2024,vendor.omega.865@gmail.com,ACC-7484,Manual Entry,,Clean
+VND-0571,Vendor Global 445,Marketing,Singapore,APAC,Active,06/07/2020,09/03/2021,vendor.global.445@corp.net,ACC-4245,Legacy System,James T.,Clean
+VND-0136,Vendor Services 781,Finance,UK,EMEA,Active,13/01/2021,27/03/2021,vendor.services.781@corp.net,ACC-7566,SAP,Ravi K.,Clean
+VND-0823,Vendor Tech 84,Marketing,Australia,APAC,Active,10/03/2024,09/06/2024,vendor.tech.84@yahoo.com,ACC-7438,SAP,Priya S.,Clean
+VND-0165,Vendor Corp 529,Marketing,India,APAC,Active,18/10/2020,06/03/2021,vendor.corp.529@vendor.com,ACC-9410,Oracle,James T.,Clean
+VND-0029,Vendor Solutions 598,Operations,Australia,APAC,Active,04/12/2021,18/03/2022,vendor.solutions.598@outlook.com,ACC-4910,Manual Entry,James T.,Clean
+VND-0553,Vendor Corp 33,Logistics,India,APAC,Active,09/02/2020,25/02/2020,vendor@,ACC-7366,Legacy System,Sarah L.,Clean
+VND-0194,Vendor Global 282,Logistics,Singapore,APAC,Active,25/12/2024,10/02/2025,vendor.global.282@corp.net,ACC-3762,Oracle,Ravi K.,Clean
+VND-0799,Vendor Corp 212,Operations,USA,AMER,Under Review,05/03/2022,14/02/2023,vendor.corp.212@yahoo.com,ACC-7853,Oracle,James T.,Clean
+VND-0627,Vendor Epsilon 284,Operations,UK,EMEA,Inactive,26/04/2020,12/09/2020,vendor.epsilon.284@yahoo.com,ACC-3580,Manual Entry,Priya S.,Clean
+VND-0170,Vendor Beta 49,Logistics,Germany,EMEA,Active,16/02/2024,19/03/2024,vendor.beta.49@gmail.com,ACC-9189,SAP,,Clean
+VND-0466,Vendor Tech 374,Marketing,UK,EMEA,Under Review,21/11/2020,23/11/2020,vendor.tech.374@outlook.com,ACC-5033,Oracle,,Clean
+VND-0141,Vendor Tech 57,IT,USA,AMER,Active,15/05/2021,24/07/2021,vendor.tech.57@outlook.com,ACC-5742,Manual Entry,Priya S.,Clean
+VND-0174,Vendor Delta 751,Legal,Singapore,APAC,Active,23/09/2022,30/11/2022,vendor.delta.751@gmail.com,ACC-6772,Manual Entry,,Clean
+VND-0007,Vendor Prime 651,Marketing,UK,EMEA,Active,26/12/2022,12/04/2023,vendor.prime.651@outlook.com,ACC-2169,Oracle,Sarah L.,Clean
+VND-0631,Vendor Services 611,Operations,Singapore,APAC,Inactive,01/01/2024,11/11/2024,vendor.services.611@outlook.com,ACC-6119,Manual Entry,Ravi K.,Clean
+VND-0761,Vendor Prime 503,Operations,UK,EMEA,Active,14/03/2019,30/03/2019,vendor.prime.503@vendor.com,ACC-2951,Legacy System,James T.,Clean
+VND-0074,Vendor Global 353,HR,Singapore,APAC,Active,12/12/2022,06/12/2023,vendor.global.353@vendor.com,ACC-5438,Manual Entry,Anita M.,Clean
+VND-0671,Vendor Solutions 504,IT,USA,AMER,Active,02/11/2023,21/02/2024,vendor.solutions.504@corp.net,ACC-2740,Legacy System,,Clean
+VND-0431,Vendor Beta 47,Logistics,Germany,EMEA,Active,04/08/2023,27/09/2023,vendor.beta.47@outlook.com,ACC-4209,Oracle,Priya S.,Clean
+VND-0239,Vendor Omega 630,Marketing,India,APAC,Active,15/03/2021,23/11/2019,vendor.omega.630@corp.net,ACC-1550,Legacy System,Sarah L.,Clean
+VND-0146,Vendor Zeta 227,Finance,Canada,AMER,Active,21/09/2024,11/08/2025,vendor.zeta.227@gmail.com,ACC-9693,Oracle,Anita M.,Clean
+VND-0778,Vendor Solutions 616,Logistics,Germany,EMEA,Active,01/01/2022,13/12/2020,vendor.solutions.616@gmail.com,ACC-5023,Manual Entry,James T.,Clean
+VND-0235,Vendor Group 139,Marketing,Singapore,APAC,Under Review,18/09/2023,27/03/2024,missing@domain,ACC-8348,Legacy System,James T.,Clean
+VND-0221,Vendor Omega 904,Marketing,USA,AMER,Under Review,29/05/2019,18/12/2019,vendor.omega.904@vendor.com,ACC-4052,Manual Entry,Priya S.,Clean
+VND-0519,Vendor Zeta 369,Operations,Australia,APAC,Under Review,21/11/2021,16/05/2022,vendor.zeta.369@gmail.com,ACC-7746,SAP,Anita M.,Clean
+VND-0478,Vendor Gamma 236,IT,Australia,APAC,Active,16/05/2021,31/07/2021,vendor.gamma.236@yahoo.com,ACC-3578,Manual Entry,Sarah L.,Clean
+VND-0133,Vendor Zeta 895,Legal,Canada,AMER,Active,30/07/2019,24/12/2019,vendor.zeta.895@corp.net,ACC-6119,Manual Entry,Priya S.,Clean
+VND-0896,Vendor Ltd 256,Logistics,USA,AMER,Active,15/09/2019,31/07/2020,vendor.ltd.256@gmail.com,ACC-1456,Legacy System,James T.,Clean
+VND-0186,Vendor Prime 220,Operations,UK,EMEA,Active,04/07/2024,14/10/2024,vendor.prime.220@gmail.com,ACC-3223,SAP,James T.,Clean
+VND-0042,Vendor Corp 550,Finance,India,APAC,Active,05/12/2021,06/03/2022,vendor.corp.550@corp.net,ACC-5349,SAP,Priya S.,Clean
+VND-0600,Vendor Services 127,IT,India,APAC,Inactive,26/01/2023,10/03/2023,vendor.services.127@corp.net,ACC-7292,Oracle,James T.,Clean
+VND-0109,Vendor Tech 368,Operations,UK,EMEA,Under Review,24/04/2022,05/05/2022,,ACC-5497,SAP,Sarah L.,Clean
+VND-0579,Vendor Gamma 62,Finance,USA,AMER,Inactive,16/01/2022,12/02/2022,vendor.gamma.62@vendor.com,ACC-1136,SAP,James T.,Clean
+VND-0057,Vendor Corp 431,HR,Canada,AMER,Active,22/03/2019,10/01/2020,vendor.corp.431@vendor.com,ACC-8814,SAP,Anita M.,Clean
+VND-0878,Vendor Epsilon 63,Finance,Germany,EMEA,Active,26/09/2019,30/05/2020,vendor.epsilon.63@gmail.com,ACC-7676,Oracle,Priya S.,Clean
+VND-0421,Vendor Solutions 449,Finance,Australia,APAC,Active,08/01/2023,17/11/2023,vendor.solutions.449@gmail.com,ACC-3140,Legacy System,James T.,Clean
+VND-0809,Vendor Ltd 950,HR,India,APAC,Active,10/06/2024,30/01/2025,vendor.ltd.950@vendor.com,ACC-2843,Oracle,Priya S.,Clean
+VND-0843,Vendor Solutions 121,Marketing,USA,AMER,Under Review,05/10/2020,03/03/2021,vendor.solutions.121@vendor.com,ACC-9288,Legacy System,,Clean
+VND-0025,Vendor Omega 3,HR,UK,EMEA,Under Review,07/02/2024,02/07/2024,test@.com,ACC-8973,Oracle,Ravi K.,Clean
+VND-0425,Vendor Corp 170,IT,Canada,AMER,Active,13/09/2021,01/03/2022,plaintext,ACC-1824,Oracle,Sarah L.,Clean
+VND-0522,Vendor Solutions 628,Operations,Germany,EMEA,Inactive,20/10/2019,29/11/2019,vendor.solutions.628@yahoo.com,ACC-6629,Oracle,Anita M.,Clean
+VND-0750,Vendor Tech 190,HR,Singapore,APAC,Under Review,10/01/2021,10/07/2021,vendor.tech.190@vendor.com,ACC-7948,Oracle,Sarah L.,Clean
+VND-0908,Vendor Zeta 194,Legal,Germany,EMEA,Active,29/03/2024,30/01/2025,vendor.zeta.194@outlook.com,ACC-6499,Manual Entry,James T.,Clean
+VND-0339,Vendor Corp 323,Marketing,Germany,EMEA,Inactive,29/08/2022,07/02/2023,vendor.corp.323@vendor.com,ACC-5455,Oracle,Priya S.,Clean
+VND-0052,Vendor Global 256,Marketing,India,APAC,Active,18/03/2024,22/02/2025,vendor.global.256@corp.net,ACC-6198,Legacy System,Sarah L.,Clean
+VND-0800,Vendor Group 150,IT,UK,EMEA,Under Review,22/08/2021,04/07/2022,vendor.group.150@vendor.com,ACC-5068,Manual Entry,Sarah L.,Clean
+VND-0501,Vendor Delta 621,Logistics,Germany,EMEA,Under Review,20/01/2019,02/06/2019,vendor.delta.621@yahoo.com,ACC-7670,SAP,Sarah L.,Clean
+VND-0902,Vendor Prime 815,HR,Australia,APAC,Active,23/10/2022,21/09/2023,vendor.prime.815@gmail.com,ACC-8439,Manual Entry,Sarah L.,Clean
+VND-0622,Vendor Zeta 804,IT,Canada,AMER,Active,15/01/2020,29/08/2020,vendor.zeta.804@corp.net,ACC-1408,Legacy System,Sarah L.,Clean
+VND-0265,Vendor Gamma 810,Legal,Singapore,APAC,Active,17/11/2022,14/12/2022,vendor.gamma.810@gmail.com,ACC-8161,Oracle,Priya S.,Clean
+VND-0528,Vendor Corp 488,HR,Canada,AMER,Active,20/01/2022,27/10/2022,vendor.corp.488@vendor.com,ACC-3213,Oracle,Sarah L.,Clean
+VND-0670,Vendor Zeta 62,Finance,Canada,AMER,Active,10/12/2023,14/01/2024,,ACC-4287,Legacy System,Ravi K.,Clean
+VND-0480,Vendor Tech 166,Legal,Canada,AMER,Active,25/09/2021,17/10/2021,vendor.tech.166@yahoo.com,ACC-3639,Oracle,,Clean
+VND-0731,Vendor Solutions 937,Finance,Germany,EMEA,Active,07/03/2024,05/03/2025,vendor.solutions.937@corp.net,ACC-3243,Oracle,Ravi K.,Clean
+VND-0426,,HR,Canada,AMER,Active,24/02/2024,08/10/2024,vendor.solutions.388@corp.net,ACC-8341,SAP,James T.,Clean
+VND-0019,Vendor Beta 725,Legal,India,APAC,Active,09/05/2019,25/10/2019,vendor.beta.725@gmail.com,ACC-9423,Oracle,Anita M.,Clean
+VND-0890,Vendor Prime 991,Finance,India,APAC,Active,06/05/2021,09/05/2021,vendor.prime.991@yahoo.com,ACC-7489,SAP,Anita M.,Clean
+VND-0808,Vendor Delta 153,IT,USA,AMER,Active,10/04/2024,21/08/2024,vendor.delta.153@yahoo.com,ACC-8653,Legacy System,Priya S.,Clean
+VND-0559,Vendor Global 412,Operations,UK,EMEA,Active,26/12/2024,29/10/2025,vendor.global.412@vendor.com,ACC-6772,Manual Entry,Sarah L.,Clean
+VND-0412,Vendor Omega 678,IT,Singapore,APAC,Active,15/07/2020,14/02/2021,,ACC-9381,SAP,Anita M.,Clean
+VND-0368,Vendor Zeta 211,Logistics,Germany,EMEA,Active,22/12/2021,25/11/2022,vendor.zeta.211@outlook.com,ACC-5872,Oracle,Priya S.,Clean
+VND-0084,Vendor Solutions 240,Finance,Canada,AMER,Inactive,21/03/2021,24/10/2021,vendor.solutions.240@gmail.com,ACC-9922,Oracle,,Clean
+VND-0062,Vendor Alpha 768,Operations,India,APAC,Under Review,04/12/2022,28/03/2023,vendor.alpha.768@gmail.com,ACC-1659,SAP,Ravi K.,Clean
+VND-0719,Vendor Corp 726,Legal,Singapore,APAC,Inactive,22/10/2020,20/02/2021,vendor.corp.726@gmail.com,ACC-1674,Manual Entry,Sarah L.,Clean
+VND-0273,Vendor Prime 802,IT,UK,EMEA,Active,07/10/2021,23/08/2022,vendor.prime.802@vendor.com,ACC-4203,Legacy System,Priya S.,Clean
+VND-0286,Vendor Beta 24,Operations,UK,EMEA,Active,04/11/2020,08/03/2021,vendor.beta.24@corp.net,ACC-3858,Oracle,Anita M.,Clean
+VND-0361,Vendor Alpha 187,Operations,UK,EMEA,Under Review,23/06/2021,16/05/2022,vendor.alpha.187@corp.net,ACC-2705,Legacy System,Ravi K.,Clean
+VND-0355,Vendor Delta 857,Marketing,Germany,EMEA,Active,20/12/2020,28/08/2021,vendor.delta.857@gmail.com,ACC-2478,SAP,Ravi K.,Clean
+VND-0526,Vendor Group 86,IT,UK,EMEA,Active,12/12/2019,11/11/2020,vendor.group.86@vendor.com,ACC-6068,Oracle,Ravi K.,Clean
+VND-0279,Vendor Epsilon 675,Logistics,Singapore,APAC,Active,25/03/2023,01/05/2023,vendor.epsilon.675@vendor.com,ACC-8851,Legacy System,Sarah L.,Clean
+VND-0013,Vendor Zeta 115,Finance,Germany,EMEA,Active,14/01/2019,28/05/2019,,ACC-3927,SAP,,Clean
+VND-0183,Vendor Beta 242,Marketing,Singapore,APAC,Active,18/04/2023,02/02/2024,vendor.beta.242@gmail.com,ACC-3513,Legacy System,Anita M.,Clean
+VND-0369,Vendor Alpha 403,Operations,Australia,APAC,Inactive,21/09/2020,18/10/2020,vendor.alpha.403@outlook.com,,Legacy System,Priya S.,Clean
+VND-0635,Vendor Prime 116,Finance,Germany,EMEA,Active,30/11/2020,23/04/2021,vendor.prime.116@outlook.com,ACC-3087,SAP,James T.,Clean
+VND-0605,Vendor Epsilon 635,Legal,Australia,APAC,Inactive,30/04/2021,25/05/2021,vendor.epsilon.635@yahoo.com,ACC-3429,SAP,,Clean
+VND-0224,Vendor Gamma 15,Finance,UK,EMEA,Inactive,02/03/2021,30/05/2021,vendor.gamma.15@corp.net,ACC-7643,Legacy System,Sarah L.,Clean
+VND-0629,Vendor Services 824,Finance,Australia,APAC,Active,19/10/2019,26/03/2020,vendor.services.824@corp.net,ACC-6549,Legacy System,Priya S.,Clean
+VND-0934,Vendor Omega 193,HR,India,APAC,Active,24/01/2024,16/12/2024,vendor.omega.193@outlook.com,ACC-2527,Oracle,Priya S.,Clean
+VND-0621,Vendor Prime 899,Logistics,UK,EMEA,Active,24/05/2022,11/09/2022,vendor.prime.899@corp.net,ACC-5953,Oracle,Priya S.,Clean
+VND-0496,Vendor Delta 380,IT,Australia,APAC,Active,24/04/2023,15/11/2023,vendor.delta.380@corp.net,ACC-9536,Manual Entry,,Clean
+VND-0573,Vendor Zeta 702,Operations,India,APAC,Active,22/08/2023,25/03/2024,vendor.zeta.702@outlook.com,ACC-6706,Oracle,Anita M.,Clean
+VND-0599,Vendor Gamma 465,Operations,Singapore,APAC,Inactive,06/02/2024,23/03/2024,vendor.gamma.465@outlook.com,ACC-6309,Oracle,,Clean
+VND-0177,Vendor Omega 835,Operations,Germany,EMEA,Active,21/02/2021,17/07/2021,vendor.omega.835@outlook.com,ACC-1783,Manual Entry,Anita M.,Clean
+VND-0654,Vendor Epsilon 172,IT,Singapore,APAC,Under Review,30/05/2022,14/03/2023,vendor.epsilon.172@outlook.com,ACC-2006,Legacy System,Sarah L.,Clean
+VND-0617,Vendor Prime 914,Marketing,Australia,APAC,Inactive,09/03/2024,06/10/2024,vendor.prime.914@gmail.com,ACC-9537,Manual Entry,Sarah L.,Clean
+VND-0576,,Logistics,Canada,AMER,Inactive,24/03/2022,31/03/2022,vendor.tech.949@outlook.com,ACC-2823,Manual Entry,James T.,Clean
+VND-0846,Vendor Group 425,Finance,Singapore,APAC,Active,12/09/2020,10/06/2021,vendor.group.425@vendor.com,ACC-4738,Oracle,James T.,Clean
+VND-0500,Vendor Alpha 755,Legal,India,APAC,Under Review,11/03/2022,22/12/2022,vendor.alpha.755@corp.net,ACC-6703,Manual Entry,Anita M.,Clean
+VND-0164,Vendor Corp 205,Marketing,Australia,APAC,Active,21/10/2021,16/11/2021,vendor.corp.205@vendor.com,ACC-7081,SAP,,Clean
+VND-0249,Vendor Global 330,Marketing,UK,EMEA,Active,25/12/2024,22/11/2025,vendor@,ACC-6053,Manual Entry,Anita M.,Clean
+VND-0680,Vendor Group 739,IT,Germany,EMEA,Active,12/11/2024,04/07/2025,vendor.group.739@corp.net,ACC-3440,Oracle,Priya S.,Clean
+VND-0868,Vendor Solutions 460,Logistics,Canada,AMER,Inactive,01/01/2020,15/11/2020,noatsign.com,ACC-7711,Legacy System,Ravi K.,Clean
+VND-0658,Vendor Gamma 819,Operations,Canada,AMER,Active,12/12/2019,24/02/2020,vendor.gamma.819@corp.net,ACC-3525,Legacy System,James T.,Clean
+VND-0376,Vendor Group 460,Logistics,USA,AMER,Under Review,28/02/2021,03/05/2021,vendor.group.460@gmail.com,ACC-7936,SAP,,Clean
+VND-0413,Vendor Beta 804,IT,Germany,EMEA,Active,29/03/2021,10/08/2021,vendor.beta.804@corp.net,ACC-4304,Manual Entry,,Clean
+VND-0075,Vendor Delta 124,Legal,USA,AMER,Active,28/01/2021,06/05/2021,vendor.delta.124@yahoo.com,ACC-8933,Manual Entry,,Clean
+VND-0114,Vendor Corp 347,Marketing,India,APAC,Active,05/11/2019,16/01/2020,vendor.corp.347@yahoo.com,ACC-7511,Manual Entry,Priya S.,Clean
+VND-0560,Vendor Zeta 866,Finance,Germany,EMEA,Inactive,30/10/2023,,vendor.zeta.866@corp.net,ACC-4943,Oracle,James T.,Clean
+VND-0807,Vendor Corp 780,Finance,Australia,APAC,Active,06/11/2020,16/04/2021,vendor.corp.780@vendor.com,ACC-3478,Legacy System,Priya S.,Clean
+VND-0391,Vendor Epsilon 623,Marketing,UK,EMEA,Inactive,01/02/2022,05/09/2022,vendor.epsilon.623@vendor.com,ACC-6713,Legacy System,Anita M.,Clean
+VND-0105,Vendor Delta 544,legal,Australia,APAC,Active,07/01/2021,04/04/2021,vendor.delta.544@yahoo.com,ACC-2293,Legacy System,Sarah L.,Clean
+VND-0115,Vendor Group 405,IT,UK,EMEA,Active,06/02/2024,12/08/2024,vendor.group.405@outlook.com,ACC-7242,Manual Entry,Priya S.,Clean
+VND-0418,Vendor Corp 142,Legal,Singapore,APAC,Active,04/01/2023,16/08/2023,vendor.corp.142@corp.net,ACC-5395,SAP,Anita M.,Clean
+VND-0451,Vendor Tech 941,Operations,USA,AMER,Under Review,07/08/2022,18/02/2023,vendor.tech.941@gmail.com,ACC-7322,Manual Entry,Sarah L.,Clean
+VND-0410,Vendor Epsilon 790,Operations,Australia,APAC,Active,16/07/2019,18/06/2020,vendor.epsilon.790@gmail.com,ACC-1323,SAP,,Clean
+VND-0093,Vendor Global 135,Finance,Germany,EMEA,Inactive,08/06/2024,09/08/2024,vendor.global.135@gmail.com,ACC-4920,Oracle,Anita M.,Clean
+VND-0555,,Marketing,India,APAC,Active,06/09/2019,08/03/2020,vendor.prime.951@corp.net,ACC-7814,Manual Entry,,Clean
+VND-0090,Vendor Solutions 108,Marketing,USA,AMER,Active,22/07/2024,16/12/2024,vendor.solutions.108@vendor.com,ACC-1601,Legacy System,Priya S.,Clean
+VND-0337,Vendor Ltd 866,Operations,Germany,EMEA,Inactive,06/03/2023,26/10/2023,vendor.ltd.866@gmail.com,ACC-2565,Oracle,,Clean
+VND-0903,Vendor Delta 111,IT,India,APAC,Active,04/10/2019,02/08/2020,vendor.delta.111@yahoo.com,ACC-3064,Manual Entry,Anita M.,Clean
+VND-0915,Vendor Prime 246,Finance,Canada,AMER,Active,02/12/2020,28/08/2021,vendor.prime.246@corp.net,ACC-8106,SAP,Priya S.,Clean
+VND-0596,Vendor Omega 529,Marketing,Singapore,APAC,Under Review,16/02/2021,15/07/2021,vendor.omega.529@vendor.com,ACC-7521,Manual Entry,Anita M.,Clean
+VND-0584,Vendor Solutions 264,HR,Canada,AMER,Under Review,21/02/2022,16/06/2022,vendor.solutions.264@yahoo.com,ACC-6599,Legacy System,,Clean
+VND-0918,Vendor Alpha 645,Marketing,UK,EMEA,Inactive,12/09/2024,08/07/2025,vendor.alpha.645@vendor.com,ACC-4428,SAP,James T.,Clean
+VND-0095,Vendor Epsilon 522,Legal,UK,EMEA,Active,30/05/2024,26/01/2025,vendor.epsilon.522@yahoo.com,ACC-8483,Oracle,James T.,Clean
+VND-0012,Vendor Omega 611,HR,Australia,APAC,Active,17/02/2019,31/01/2020,vendor.omega.611@gmail.com,ACC-9797,Manual Entry,,Clean
+VND-0397,Vendor Services 228,Legal,Australia,APAC,Active,02/05/2024,10/04/2025,vendor.services.228@outlook.com,ACC-9311,Manual Entry,Ravi K.,Clean
+VND-0524,Vendor Gamma 189,Marketing,India,APAC,Active,01/01/2022,23/07/2022,vendor.gamma.189@outlook.com,ACC-2311,Oracle,Ravi K.,Clean
+VND-0044,Vendor Delta 261,IT,Singapore,APAC,Active,30/10/2024,01/08/2025,vendor.delta.261@yahoo.com,ACC-6967,Legacy System,Priya S.,Clean
+VND-0043,Vendor Tech 445,Finance,Singapore,APAC,Inactive,23/11/2023,28/09/2024,vendor.tech.445@corp.net,ACC-2894,Legacy System,Sarah L.,Clean
+VND-0330,Vendor Zeta 393,Logistics,USA,AMER,Under Review,25/05/2019,03/03/2020,vendor.zeta.393@vendor.com,ACC-4678,Manual Entry,Ravi K.,Clean
+VND-0168,Vendor Alpha 294,Marketing,Germany,EMEA,Active,22/07/2020,18/07/2021,vendor.alpha.294@vendor.com,ACC-8349,SAP,Priya S.,Clean
+VND-0483,Vendor Delta 851,HR,Australia,APAC,Active,14/01/2021,29/11/2021,vendor.delta.851@corp.net,,Oracle,,Clean
+VND-0859,Vendor Beta 95,IT,Germany,EMEA,Inactive,04/05/2024,21/08/2024,vendor.beta.95@vendor.com,ACC-2279,Manual Entry,,Clean
+VND-0588,Vendor Global 546,Legal,India,APAC,Active,19/08/2020,03/09/2020,vendor.global.546@outlook.com,ACC-7783,Legacy System,Anita M.,Clean
+VND-0742,,Operations,Australia,APAC,Inactive,02/11/2022,29/01/2023,vendor.corp.453@outlook.com,ACC-1471,SAP,Ravi K.,Clean
+VND-0101,Vendor Gamma 420,Marketing,Singapore,APAC,Under Review,03/11/2019,30/06/2020,vendor.gamma.420@outlook.com,ACC-6546,Legacy System,,Clean
+VND-0427,Vendor Prime 324,IT,Germany,EMEA,Inactive,14/03/2019,05/05/2019,vendor.prime.324@vendor.com,ACC-7755,SAP,Sarah L.,Clean
+VND-0179,Vendor Prime 377,Marketing,Australia,APAC,Active,05/12/2019,09/07/2020,vendor.prime.377@gmail.com,ACC-8055,Oracle,Sarah L.,Clean
+VND-0445,Vendor Delta 302,HR,USA,AMER,Under Review,02/11/2019,05/02/2020,vendor.delta.302@yahoo.com,ACC-9418,SAP,James T.,Clean
+VND-0417,Vendor Corp 41,Marketing,UK,EMEA,Active,04/07/2022,07/02/2023,vendor.corp.41@gmail.com,ACC-2556,SAP,Priya S.,Clean
+VND-0637,Vendor Omega 245,Operations,USA,AMER,Active,29/05/2024,11/12/2024,vendor.omega.245@gmail.com,ACC-6582,Oracle,,Clean
+VND-0865,Vendor Alpha 811,Logistics,USA,AMER,Inactive,24/09/2023,18/10/2023,vendor.alpha.811@outlook.com,ACC-5644,Oracle,Ravi K.,Clean
+VND-0924,Vendor Prime 443,HR,UK,EMEA,Inactive,22/07/2022,08/12/2022,vendor.prime.443@vendor.com,ACC-1404,Oracle,James T.,Clean
+VND-0178,Vendor Beta 819,Finance,Germany,EMEA,Inactive,07/12/2023,21/06/2024,,ACC-4060,Legacy System,,Clean
+VND-0396,Vendor Epsilon 929,HR,Germany,EMEA,Active,25/05/2019,18/03/2020,vendor.epsilon.929@corp.net,ACC-4111,Manual Entry,,Clean
+VND-0753,Vendor Epsilon 468,Operations,Singapore,APAC,Active,24/12/2023,17/04/2024,vendor.epsilon.468@corp.net,,Manual Entry,James T.,Clean
+VND-0779,Vendor Prime 574,HR,Germany,EMEA,Active,01/06/2019,12/09/2019,vendor.prime.574@yahoo.com,,Oracle,Priya S.,Clean
+VND-0942,Vendor Delta 184,Operations,Singapore,APAC,Active,25/04/2023,27/03/2024,vendor.delta.184@yahoo.com,ACC-2565,Legacy System,,Clean
+VND-0721,Vendor Prime 553,Logistics,Australia,APAC,Active,13/04/2019,06/11/2019,vendor.prime.553@vendor.com,ACC-3381,Legacy System,Anita M.,Clean
+VND-0384,Vendor Delta 936,Marketing,Germany,EMEA,Inactive,16/10/2024,25/04/2025,vendor.delta.936@gmail.com,ACC-9442,Oracle,Priya S.,Clean
+VND-0938,Vendor Beta 399,Marketing,USA,AMER,Active,22/04/2021,27/09/2021,vendor.beta.399@vendor.com,ACC-8778,Oracle,Sarah L.,Clean
+VND-0258,Vendor Beta 941,Logistics,Australia,APAC,Active,25/02/2021,08/01/2022,vendor.beta.941@corp.net,ACC-5135,Manual Entry,Anita M.,Clean
+VND-0529,Vendor Tech 468,Legal,Singapore,APAC,Active,17/11/2023,11/08/2024,vendor.tech.468@corp.net,ACC-6073,Manual Entry,James T.,Clean
+VND-0336,Vendor Delta 543,Logistics,Germany,EMEA,Active,03/09/2019,14/11/2019,vendor.delta.543@outlook.com,ACC-2524,SAP,Ravi K.,Clean
+VND-0604,Vendor Delta 603,Legal,Germany,EMEA,Active,15/12/2023,24/01/2024,vendor.delta.603@corp.net,ACC-1107,Oracle,Sarah L.,Clean
+VND-0016,Vendor Services 498,Marketing,India,APAC,Under Review,21/12/2024,23/02/2025,,ACC-8787,Oracle,Anita M.,Clean
+VND-0004,Vendor Delta 981,Marketing,UK,EMEA,Active,06/04/2023,25/05/2023,vendor.delta.981@outlook.com,ACC-6635,Manual Entry,Priya S.,Clean
+VND-0864,Vendor Tech 297,IT,Australia,APAC,Active,02/03/2023,05/08/2023,vendor.tech.297@outlook.com,ACC-5968,Manual Entry,James T.,Clean
+VND-0928,Vendor Group 307,Finance,Canada,AMER,Active,13/07/2023,05/02/2024,vendor.group.307@corp.net,ACC-1194,Legacy System,,Clean
+VND-0257,Vendor Global 422,IT,India,APAC,Active,30/01/2022,31/10/2022,vendor.global.422@outlook.com,ACC-1280,Legacy System,Ravi K.,Clean
+VND-0536,Vendor Zeta 20,Logistics,India,APAC,Under Review,01/04/2019,05/07/2019,vendor.zeta.20@gmail.com,ACC-5622,Manual Entry,Ravi K.,Clean
+VND-0744,Vendor Services 782,Marketing,India,APAC,Active,06/06/2024,12/01/2025,vendor.services.782@gmail.com,ACC-4217,SAP,Priya S.,Clean
+VND-0695,Vendor Delta 101,Logistics,Singapore,APAC,Active,30/03/2021,08/10/2021,vendor.delta.101@yahoo.com,ACC-2204,Legacy System,Sarah L.,Clean
+VND-0508,Vendor Zeta 160,Marketing,India,APAC,Active,18/11/2019,29/10/2020,vendor.zeta.160@vendor.com,ACC-1108,SAP,James T.,Clean
+VND-0394,Vendor Zeta 883,Finance,UK,EMEA,Active,08/05/2022,12/08/2022,vendor.zeta.883@yahoo.com,ACC-9475,Oracle,Priya S.,Clean
+VND-0223,Vendor Corp 517,HR,UK,EMEA,Active,06/04/2020,22/09/2020,vendor.corp.517@yahoo.com,ACC-8518,Manual Entry,,Clean
+VND-0180,Vendor Epsilon 329,IT,India,APAC,Active,25/04/2022,28/09/2022,vendor.epsilon.329@vendor.com,ACC-7981,Oracle,,Clean
+VND-0290,Vendor Epsilon 687,Marketing,Germany,EMEA,Active,07/07/2022,08/05/2023,vendor.epsilon.687@vendor.com,ACC-7431,SAP,Anita M.,Clean
+VND-0432,Vendor Ltd 873,HR,USA,AMER,Active,19/02/2021,11/08/2021,vendor.ltd.873@gmail.com,ACC-7790,SAP,,Clean
+VND-0325,Vendor Services 674,Legal,USA,AMER,Active,16/07/2020,10/07/2021,vendor.services.674@gmail.com,ACC-3684,Legacy System,Anita M.,Clean
+VND-0581,Vendor Omega 521,Legal,India,APAC,Under Review,08/06/2024,09/04/2025,vendor.omega.521@corp.net,ACC-2442,Oracle,Ravi K.,Clean
+VND-0010,Vendor Epsilon 143,Logistics,Singapore,APAC,Active,12/12/2021,07/10/2022,vendor.epsilon.143@vendor.com,ACC-7543,Manual Entry,Ravi K.,Clean
+VND-0250,Vendor Global 904,HR,Germany,EMEA,Active,01/01/2022,17/09/2024,vendor.global.904@yahoo.com,ACC-7073,Manual Entry,James T.,Clean
+VND-0023,Vendor Epsilon 474,Logistics,Canada,AMER,Under Review,21/12/2023,27/09/2024,vendor.epsilon.474@gmail.com,ACC-1828,SAP,Priya S.,Clean
+VND-0357,Vendor Gamma 941,Marketing,Canada,AMER,Inactive,01/09/2019,12/09/2019,vendor.gamma.941@yahoo.com,ACC-3320,SAP,Sarah L.,Clean
+VND-0222,Vendor Alpha 306,Operations,Australia,APAC,Active,04/10/2022,26/02/2023,vendor.alpha.306@vendor.com,ACC-9901,Legacy System,Ravi K.,Clean
+VND-0796,Vendor Delta 269,Legal,Canada,AMER,Active,01/07/2023,12/05/2024,vendor.delta.269@vendor.com,ACC-5262,Oracle,Priya S.,Clean
+VND-0844,Vendor Corp 102,Logistics,Singapore,APAC,Active,18/07/2020,18/09/2020,vendor.corp.102@yahoo.com,ACC-8194,Legacy System,Priya S.,Clean
+VND-0341,Vendor Omega 124,Operations,UK,EMEA,Under Review,30/04/2021,17/12/2021,vendor.omega.124@outlook.com,ACC-8591,Manual Entry,Priya S.,Clean
+VND-0542,Vendor Services 44,Legal,Australia,APAC,Active,03/11/2021,07/07/2022,vendor.services.44@outlook.com,ACC-4255,Manual Entry,Priya S.,Clean
+VND-0204,Vendor Global 200,Finance,Australia,APAC,Active,02/05/2023,15/01/2024,vendor.global.200@vendor.com,ACC-5582,SAP,Ravi K.,Clean
+VND-0781,Vendor Corp 919,IT,UK,EMEA,Active,18/09/2019,13/04/2020,vendor.corp.919@outlook.com,ACC-2479,Legacy System,,Clean
+VND-0094,Vendor Global 15,Operations,Germany,EMEA,Inactive,09/04/2020,01/12/2020,vendor.global.15@gmail.com,ACC-3522,Legacy System,,Clean
+VND-0549,Vendor Corp 852,Operations,Canada,AMER,Active,10/10/2019,07/07/2020,vendor.corp.852@yahoo.com,ACC-8362,Manual Entry,Anita M.,Clean
+VND-0069,Vendor Omega 846,Operations,Australia,APAC,Active,02/10/2021,15/11/2021,vendor.omega.846@outlook.com,ACC-8385,Oracle,James T.,Clean
+VND-0612,Vendor Group 185,Operations,USA,AMER,Inactive,03/03/2021,03/03/2021,vendor.group.185@gmail.com,ACC-1392,Legacy System,,Clean
+VND-0285,Vendor Global 495,Finance,Germany,EMEA,Active,28/01/2024,09/07/2024,vendor.global.495@gmail.com,ACC-5919,SAP,,Clean
+VND-0788,Vendor Ltd 984,HR,UK,EMEA,Active,22/08/2021,21/01/2022,vendor.ltd.984@yahoo.com,ACC-3625,Legacy System,,Clean
+VND-0435,Vendor Tech 178,Legal,Canada,AMER,Active,06/05/2023,06/04/2024,vendor.tech.178@corp.net,ACC-6273,Legacy System,James T.,Clean
+VND-0154,Vendor Delta 725,HR,Germany,EMEA,Active,12/10/2020,16/04/2021,vendor.delta.725@outlook.com,ACC-5634,Legacy System,James T.,Clean
+VND-0076,Vendor Tech 779,Operations,Australia,APAC,Active,16/02/2020,25/05/2020,vendor.tech.779@outlook.com,ACC-4727,Manual Entry,Ravi K.,Clean
+VND-0718,Vendor Gamma 362,Finance,Germany,EMEA,Under Review,20/10/2020,19/10/2021,vendor.gamma.362@corp.net,ACC-5673,Oracle,Ravi K.,Clean
+VND-0447,Vendor Services 960,Logistics,India,APAC,Active,14/08/2022,15/06/2023,vendor.services.960@gmail.com,ACC-5934,Legacy System,Sarah L.,Clean
+VND-0189,Vendor Group 143,Logistics,Canada,AMER,Active,18/01/2023,28/10/2023,vendor.group.143@corp.net,ACC-7044,Legacy System,Sarah L.,Clean
+VND-0272,Vendor Gamma 276,Finance,UK,EMEA,Active,17/09/2019,11/12/2019,vendor.gamma.276@vendor.com,ACC-5521,Legacy System,Anita M.,Clean
+VND-0237,Vendor Gamma 746,Logistics,Canada,AMER,Active,04/04/2019,03/09/2019,vendor.gamma.746@vendor.com,ACC-9920,Legacy System,Sarah L.,Clean
+VND-0488,Vendor Group 788,HR,UK,EMEA,Active,05/02/2020,09/09/2020,vendor.group.788@yahoo.com,ACC-5170,Legacy System,Ravi K.,Clean
+VND-0118,Vendor Ltd 551,Logistics,Germany,EMEA,Active,13/09/2023,09/07/2024,vendor.ltd.551@yahoo.com,ACC-7797,SAP,James T.,Clean
+VND-0802,Vendor Omega 754,Operations,UK,EMEA,Active,29/08/2019,24/09/2019,vendor.omega.754@outlook.com,ACC-4847,Legacy System,Anita M.,Clean
+VND-0513,Vendor Epsilon 243,Finance,Germany,EMEA,Under Review,06/11/2022,12/05/2023,vendor.epsilon.243@yahoo.com,ACC-9171,Legacy System,Ravi K.,Clean
+VND-0544,Vendor Beta 406,Marketing,USA,AMER,Active,22/06/2019,14/04/2020,vendor.beta.406@vendor.com,ACC-3539,Manual Entry,Priya S.,Clean
+VND-0582,Vendor Global 990,HR,Australia,APAC,Under Review,30/03/2019,19/04/2019,vendor.global.990@yahoo.com,ACC-9673,Manual Entry,Anita M.,Clean
+VND-0127,Vendor Corp 412,HR,Singapore,APAC,Active,22/12/2023,28/01/2024,vendor.corp.412@gmail.com,ACC-6277,Oracle,Priya S.,Clean
+VND-0117,Vendor Epsilon 665,HR,India,APAC,Active,02/06/2019,04/11/2019,vendor.epsilon.665@vendor.com,ACC-2902,SAP,Ravi K.,Clean
+VND-0474,Vendor Delta 65,Finance,UK,EMEA,Active,26/04/2021,16/01/2022,vendor.delta.65@outlook.com,ACC-7358,Legacy System,James T.,Clean
+VND-0058,Vendor Epsilon 772,HR,Canada,AMER,Inactive,13/09/2023,14/06/2024,vendor.epsilon.772@corp.net,ACC-4613,Legacy System,Ravi K.,Clean
+VND-0894,Vendor Solutions 531,HR,Germany,EMEA,Active,28/06/2019,20/10/2019,vendor.solutions.531@gmail.com,ACC-5553,Legacy System,Sarah L.,Clean
+VND-0370,Vendor Epsilon 844,Legal,Singapore,APAC,Active,28/03/2021,16/05/2021,vendor.epsilon.844@gmail.com,ACC-4390,Oracle,,Clean
+VND-0269,Vendor Alpha 966,Finance,Germany,EMEA,Active,09/01/2022,02/03/2022,vendor.alpha.966@yahoo.com,ACC-2430,Oracle,James T.,Clean
+VND-0047,Vendor Global 854,IT,UK,EMEA,Active,27/10/2023,18/08/2024,vendor.global.854@corp.net,ACC-6279,Legacy System,James T.,Clean
+VND-0350,Vendor Ltd 817,Operations,USA,AMER,Active,21/03/2019,02/10/2019,vendor.ltd.817@outlook.com,ACC-8859,Legacy System,Anita M.,Clean
+VND-0196,Vendor Delta 786,Operations,Germany,EMEA,Active,05/05/2019,14/01/2020,vendor.delta.786@corp.net,ACC-5745,Manual Entry,James T.,Clean
+VND-0172,Vendor Omega 192,Legal,Singapore,APAC,Active,17/01/2023,20/02/2023,vendor.omega.192@corp.net,ACC-9914,SAP,James T.,Clean
+VND-0818,Vendor Prime 907,HR,Germany,EMEA,Active,29/09/2023,14/11/2023,vendor.prime.907@vendor.com,ACC-7033,Oracle,James T.,Clean
+VND-0723,Vendor Solutions 151,Marketing,Australia,APAC,Inactive,16/12/2023,06/06/2024,vendor.solutions.151@gmail.com,ACC-8847,SAP,Ravi K.,Clean
+VND-0264,Vendor Epsilon 167,Operations,USA,AMER,Active,13/05/2023,23/04/2024,vendor.epsilon.167@corp.net,ACC-6435,Legacy System,,Clean
+VND-0444,Vendor Alpha 14,Legal,UK,EMEA,Active,20/12/2023,13/04/2024,vendor.alpha.14@outlook.com,,Oracle,,Clean
+VND-0663,Vendor Tech 941,Legal,Canada,AMER,Active,12/01/2022,28/05/2022,vendor.tech.941@gmail.com,ACC-5183,Legacy System,James T.,Clean
+VND-0305,Vendor Global 768,Finance,Singapore,APAC,Under Review,20/02/2023,10/10/2023,vendor.global.768@vendor.com,ACC-6362,SAP,,Clean
+VND-0342,Vendor Beta 162,Marketing,Singapore,APAC,Active,15/06/2019,03/10/2019,vendor.beta.162@outlook.com,ACC-3430,SAP,,Clean
+VND-0948,Vendor Corp 19,Operations,India,APAC,Active,23/05/2020,20/02/2021,vendor.corp.19@vendor.com,ACC-3759,SAP,,Clean
+VND-0150,Vendor Prime 453,Legal,UK,EMEA,Inactive,19/08/2019,15/02/2020,vendor.prime.453@corp.net,ACC-2215,Manual Entry,James T.,Clean
+VND-0125,Vendor Beta 764,IT,Germany,EMEA,Active,22/01/2023,11/10/2023,vendor.beta.764@corp.net,ACC-2786,Legacy System,Sarah L.,Clean
+VND-0893,Vendor Global 905,HR,India,APAC,Under Review,01/08/2019,13/01/2020,vendor.global.905@vendor.com,ACC-7666,Manual Entry,Priya S.,Clean
+VND-0051,Vendor Omega 250,Logistics,Singapore,APAC,Active,12/03/2020,15/10/2020,vendor.omega.250@yahoo.com,ACC-3881,Legacy System,Priya S.,Clean
+VND-0354,Vendor Delta 607,Finance,Canada,AMER,Inactive,09/01/2023,07/11/2023,vendor.delta.607@gmail.com,ACC-6761,Oracle,Sarah L.,Clean
+VND-0909,Vendor Zeta 167,IT,Germany,EMEA,Inactive,22/06/2019,01/03/2020,vendor.zeta.167@yahoo.com,ACC-1060,Oracle,,Clean
+VND-0143,Vendor Omega 883,Legal,India,APAC,Active,27/02/2024,06/04/2024,vendor.omega.883@outlook.com,ACC-8033,Legacy System,,Clean
+VND-0471,Vendor Group 153,Finance,Germany,EMEA,Active,06/04/2022,13/06/2022,vendor.group.153@vendor.com,ACC-9210,SAP,James T.,Clean
+VND-0400,Vendor Epsilon 475,Marketing,India,APAC,Active,19/10/2019,16/06/2020,vendor.epsilon.475@yahoo.com,ACC-9199,SAP,,Clean
+VND-0065,Vendor Tech 694,HR,Germany,EMEA,Under Review,23/03/2021,30/04/2021,vendor.tech.694@corp.net,ACC-4978,SAP,,Clean
+VND-0321,Vendor Delta 41,IT,Canada,AMER,Active,19/03/2022,03/02/2023,vendor.delta.41@corp.net,ACC-7806,Legacy System,,Clean
+VND-0020,Vendor Solutions 498,Logistics,Australia,APAC,Active,20/04/2024,22/08/2024,vendor.solutions.498@vendor.com,ACC-7669,Oracle,Priya S.,Clean
+VND-0793,Vendor Gamma 256,Operations,Singapore,APAC,Under Review,16/06/2020,16/04/2021,vendor.gamma.256@vendor.com,ACC-6233,Legacy System,James T.,Clean
+VND-0869,Vendor Ltd 405,Finance,Australia,APAC,Active,20/12/2023,10/05/2024,vendor.ltd.405@gmail.com,ACC-3713,SAP,Sarah L.,Clean
+VND-0408,Vendor Gamma 351,HR,UK,EMEA,Inactive,06/11/2020,31/05/2021,vendor.gamma.351@gmail.com,,Oracle,,Clean
+VND-0538,Vendor Epsilon 805,Marketing,Germany,EMEA,Under Review,14/03/2024,05/03/2025,vendor.epsilon.805@gmail.com,ACC-6410,SAP,Ravi K.,Clean
+VND-0873,Vendor Tech 329,HR,Australia,APAC,Active,06/04/2019,27/09/2019,vendor.tech.329@vendor.com,ACC-3957,Legacy System,Priya S.,Clean
+VND-0039,Vendor Gamma 755,Finance,Canada,AMER,Under Review,13/10/2021,26/02/2022,vendor.gamma.755@yahoo.com,ACC-2771,Legacy System,Priya S.,Clean
+VND-0176,Vendor Group 967,HR,India,APAC,Active,29/06/2019,09/10/2019,vendor.group.967@gmail.com,ACC-6170,Manual Entry,Sarah L.,Clean
+VND-0246,Vendor Beta 945,HR,Canada,AMER,Active,19/02/2021,17/03/2021,vendor.beta.945@outlook.com,ACC-7179,SAP,Priya S.,Clean
+VND-0812,Vendor Solutions 697,IT,Germany,EMEA,Active,10/03/2020,22/08/2020,vendor.solutions.697@yahoo.com,ACC-1473,SAP,James T.,Clean
+VND-0656,Vendor Beta 872,Marketing,UK,EMEA,Active,01/01/2022,14/07/2022,vendor.beta.872@outlook.com,ACC-1232,SAP,Sarah L.,Clean
+VND-0740,Vendor Zeta 944,Logistics,India,APAC,Active,23/08/2024,14/12/2024,vendor.zeta.944@yahoo.com,ACC-9612,SAP,James T.,Clean
+VND-0922,Vendor Epsilon 436,HR,Australia,APAC,Active,13/03/2023,21/07/2023,vendor.epsilon.436@corp.net,ACC-2388,Oracle,Priya S.,Clean
+VND-0155,Vendor Group 347,Legal,Australia,APAC,Active,02/10/2022,04/11/2022,vendor.group.347@outlook.com,ACC-2548,Legacy System,Anita M.,Clean
+VND-0288,Vendor Tech 905,Logistics,Germany,EMEA,Active,12/05/2023,14/05/2023,vendor.tech.905@yahoo.com,ACC-4371,Manual Entry,,Clean
+VND-0848,Vendor Group 11,Legal,Canada,AMER,Active,13/10/2019,25/11/2019,vendor.group.11@outlook.com,ACC-6157,Legacy System,Ravi K.,Clean
+VND-0570,Vendor Gamma 136,Finance,India,APAC,Active,21/07/2019,26/04/2020,vendor.gamma.136@vendor.com,ACC-5301,SAP,James T.,Clean
+VND-0729,Vendor Group 746,HR,Singapore,APAC,Inactive,25/07/2020,21/05/2021,vendor.group.746@corp.net,ACC-2410,Oracle,Ravi K.,Clean
+VND-0018,Vendor Ltd 530,HR,India,APAC,Active,20/09/2019,11/03/2020,vendor.ltd.530@gmail.com,ACC-4770,Oracle,Priya S.,Clean
+VND-0128,Vendor Gamma 282,Operations,Singapore,APAC,Active,01/10/2024,07/03/2023,vendor.gamma.282@corp.net,ACC-9692,Manual Entry,James T.,Clean
+VND-0323,Vendor Ltd 209,Marketing,USA,AMER,Active,20/05/2023,15/03/2024,vendor.ltd.209@gmail.com,ACC-6081,Legacy System,,Clean
+VND-0256,Vendor Alpha 633,Legal,Singapore,APAC,Under Review,02/06/2024,05/05/2025,vendor.alpha.633@vendor.com,ACC-1257,SAP,Sarah L.,Clean
+VND-0936,Vendor Epsilon 211,Logistics,UK,EMEA,Active,14/10/2019,02/06/2020,vendor.epsilon.211@gmail.com,ACC-7039,SAP,Ravi K.,Clean
+VND-0946,Vendor Omega 877,Logistics,Germany,EMEA,Active,23/10/2021,20/12/2021,vendor.omega.877@yahoo.com,ACC-6359,Legacy System,James T.,Clean
+VND-0191,Vendor Zeta 658,IT,Germany,EMEA,Active,20/10/2024,14/04/2025,vendor.zeta.658@yahoo.com,ACC-3981,Oracle,James T.,Clean
+VND-0116,Vendor Solutions 240,HR,India,APAC,Active,05/09/2022,14/07/2023,vendor.solutions.240@yahoo.com,ACC-2035,Legacy System,,Clean
+VND-0606,Vendor Zeta 38,Logistics,Canada,AMER,Active,07/05/2022,23/10/2022,vendor.zeta.38@gmail.com,ACC-1803,SAP,James T.,Clean
+VND-0181,Vendor Prime 360,HR,India,APAC,Inactive,15/12/2022,25/10/2023,vendor.prime.360@vendor.com,ACC-5498,SAP,Priya S.,Clean
+VND-0302,Vendor Global 173,Finance,Singapore,APAC,Active,31/12/2021,20/09/2022,vendor.global.173@gmail.com,ACC-3221,Legacy System,Priya S.,Clean
+VND-0765,Vendor Zeta 63,IT,Australia,APAC,Active,09/02/2023,06/08/2023,vendor.zeta.63@corp.net,ACC-1440,Manual Entry,James T.,Clean
+VND-0937,Vendor Zeta 881,HR,Germany,EMEA,Active,29/03/2020,03/06/2020,vendor.zeta.881@corp.net,ACC-7855,Legacy System,,Clean
+VND-0711,Vendor Services 545,Legal,Canada,AMER,Active,12/04/2022,29/11/2022,vendor.services.545@corp.net,ACC-7031,SAP,Ravi K.,Clean
+VND-0673,Vendor Solutions 1,IT,Singapore,APAC,Active,12/09/2020,05/09/2021,vendor.solutions.1@outlook.com,ACC-7411,SAP,Sarah L.,Clean
+VND-0650,Vendor Global 276,HR,Australia,APAC,Active,18/05/2019,06/06/2019,vendor.global.276@corp.net,ACC-8917,Manual Entry,Priya S.,Clean
+VND-0518,Vendor Services 168,IT,USA,AMER,Inactive,05/05/2024,23/03/2025,vendor.services.168@gmail.com,,Manual Entry,Anita M.,Clean
+VND-0046,,Finance,Australia,APAC,Active,19/09/2023,24/08/2024,vendor.omega.714@vendor.com,ACC-3851,Manual Entry,James T.,Clean
+VND-0891,Vendor Tech 513,HR,USA,AMER,Active,19/12/2020,21/01/2021,vendor.tech.513@corp.net,ACC-3101,SAP,Ravi K.,Clean
+VND-0158,Vendor Solutions 720,Marketing,Singapore,APAC,Under Review,26/11/2024,12/01/2025,vendor.solutions.720@vendor.com,ACC-9331,Manual Entry,Priya S.,Clean
+VND-0888,Vendor Corp 787,Marketing,Singapore,APAC,Under Review,26/05/2020,17/01/2021,vendor.corp.787@outlook.com,ACC-4161,Legacy System,Priya S.,Clean
+VND-0017,Vendor Global 894,Operations,Germany,EMEA,Under Review,03/04/2021,03/04/2022,vendor.global.894@outlook.com,ACC-7537,Manual Entry,James T.,Clean
+VND-0512,Vendor Alpha 13,Finance,USA,AMER,Active,17/02/2020,01/08/2020,vendor.alpha.13@outlook.com,ACC-5254,Oracle,Sarah L.,Clean
+VND-0049,Vendor Corp 975,Marketing,USA,AMER,Active,09/07/2021,18/10/2021,vendor.corp.975@yahoo.com,ACC-1400,SAP,Ravi K.,Clean
+VND-0824,Vendor Omega 898,Legal,UK,EMEA,Active,07/02/2024,15/01/2025,vendor.omega.898@vendor.com,ACC-5342,Manual Entry,Ravi K.,Clean
+VND-0516,Vendor Group 983,Legal,USA,AMER,Active,01/03/2020,10/05/2019,vendor.group.983@vendor.com,ACC-9185,Oracle,,Clean
+VND-0674,Vendor Services 963,HR,Germany,EMEA,Active,13/07/2023,17/08/2023,vendor.services.963@corp.net,ACC-4700,SAP,James T.,Clean
+VND-0481,Vendor Global 41,Operations,USA,AMER,Active,23/11/2021,23/02/2022,vendor.global.41@corp.net,ACC-7642,SAP,,Clean
+VND-0284,Vendor Epsilon 426,IT,India,APAC,Inactive,03/08/2020,28/01/2021,vendor.epsilon.426@outlook.com,ACC-6620,Legacy System,Ravi K.,Clean
+VND-0706,Vendor Ltd 708,Finance,Australia,APAC,Active,11/10/2023,26/02/2024,vendor.ltd.708@corp.net,ACC-9887,Oracle,,Clean
+VND-0820,Vendor Solutions 663,Operations,India,APAC,Active,27/11/2023,06/01/2024,vendor.solutions.663@vendor.com,ACC-5921,Oracle,Ravi K.,Clean
+VND-0226,Vendor Omega 242,HR,Canada,AMER,Active,12/09/2022,13/02/2023,,ACC-1187,Manual Entry,,Clean
+VND-0027,Vendor Ltd 874,Operations,USA,AMER,Active,11/09/2024,22/10/2024,vendor.ltd.874@yahoo.com,ACC-2122,SAP,,Clean
+VND-0768,Vendor Zeta 39,HR,Singapore,APAC,Inactive,09/10/2024,12/05/2025,vendor.zeta.39@outlook.com,ACC-1334,Legacy System,Sarah L.,Clean
+VND-0438,Vendor Tech 732,Finance,Singapore,APAC,Active,27/06/2020,25/06/2021,vendor.tech.732@yahoo.com,ACC-9255,Manual Entry,,Clean
+VND-0933,Vendor Gamma 976,Finance,Australia,APAC,Active,21/05/2023,02/12/2023,vendor.gamma.976@yahoo.com,ACC-7400,SAP,Sarah L.,Clean
+VND-0365,Vendor Group 885,Operations,Singapore,APAC,Inactive,12/07/2021,03/10/2021,vendor.group.885@vendor.com,ACC-2207,SAP,Anita M.,Clean
+VND-0230,Vendor Prime 541,Legal,UK,EMEA,Active,04/04/2020,05/05/2020,vendor.prime.541@corp.net,ACC-9281,Oracle,Sarah L.,Clean
+VND-0038,Vendor Group 574,Marketing,Germany,EMEA,Under Review,25/09/2020,24/01/2021,vendor.group.574@yahoo.com,ACC-3900,Legacy System,Priya S.,Clean
+VND-0947,Vendor Prime 70,IT,Australia,APAC,Active,28/11/2023,07/02/2024,vendor.prime.70@vendor.com,ACC-5573,Oracle,Ravi K.,Clean
+VND-0375,Vendor Ltd 242,HR,UK,EMEA,Active,23/05/2019,04/02/2020,vendor.ltd.242@corp.net,ACC-9467,Oracle,Priya S.,Clean
+VND-0470,Vendor Tech 415,Marketing,Australia,APAC,Active,31/05/2019,08/03/2020,,ACC-9904,Legacy System,,Clean
+VND-0949,Vendor Group 12,Legal,UK,EMEA,Active,06/01/2023,07/04/2023,vendor.group.12@yahoo.com,ACC-1564,Oracle,James T.,Clean
+VND-0834,Vendor Tech 324,Operations,India,APAC,Active,05/09/2023,04/05/2024,vendor.tech.324@gmail.com,ACC-9106,Manual Entry,James T.,Clean
+VND-0713,Vendor Beta 714,Logistics,Germany,EMEA,Active,16/04/2021,07/01/2022,vendor.beta.714@gmail.com,ACC-5803,Legacy System,,Clean
+VND-0195,,Legal,Australia,APAC,Active,18/06/2019,02/07/2019,vendor.solutions.640@gmail.com,ACC-1744,Manual Entry,,Clean
+VND-0837,Vendor Solutions 753,Finance,Canada,AMER,Active,25/10/2020,08/09/2021,vendor.solutions.753@yahoo.com,ACC-5627,SAP,,Clean
+VND-0847,Vendor Omega 941,HR,Germany,EMEA,Under Review,15/10/2024,29/09/2025,vendor.omega.941@outlook.com,ACC-1487,Legacy System,Ravi K.,Clean
+VND-0504,Vendor Epsilon 70,HR,Singapore,APAC,Inactive,21/06/2021,02/06/2022,vendor.epsilon.70@yahoo.com,ACC-6172,Legacy System,Anita M.,Clean
+VND-0005,Vendor Services 471,Operations,India,APAC,Under Review,31/03/2023,10/05/2023,vendor.services.471@corp.net,ACC-5803,Manual Entry,Sarah L.,Clean
+VND-0814,Vendor Tech 974,HR,UK,EMEA,Under Review,13/06/2020,29/09/2020,vendor.tech.974@gmail.com,ACC-5635,Manual Entry,Priya S.,Clean
+VND-0580,Vendor Solutions 278,Legal,Canada,AMER,Under Review,15/01/2023,11/03/2023,vendor.solutions.278@gmail.com,ACC-5792,Legacy System,Ravi K.,Clean
+VND-0950,Vendor Services 49,Marketing,Singapore,APAC,Inactive,26/02/2020,12/09/2020,vendor.services.49@outlook.com,ACC-8274,SAP,Sarah L.,Clean
+VND-0163,Vendor Ltd 856,Logistics,UK,EMEA,Active,10/12/2023,02/08/2024,vendor.ltd.856@outlook.com,ACC-7256,Legacy System,Ravi K.,Clean
+VND-0690,Vendor Global 98,Operations,UK,EMEA,Inactive,09/09/2024,30/12/2024,vendor.global.98@vendor.com,ACC-4409,Manual Entry,Priya S.,Clean
+VND-0153,Vendor Gamma 981,IT,Germany,EMEA,Active,07/11/2022,07/11/2023,vendor.gamma.981@gmail.com,ACC-9266,Oracle,Priya S.,Clean
+VND-0669,Vendor Ltd 684,Marketing,Canada,AMER,Active,25/10/2020,01/12/2020,vendor.ltd.684@outlook.com,ACC-2022,Legacy System,James T.,Clean
+VND-0688,Vendor Solutions 278,Operations,Germany,EMEA,Active,15/12/2020,23/10/2021,vendor.solutions.278@gmail.com,ACC-3949,Legacy System,Sarah L.,Clean
+VND-0741,Vendor Prime 939,IT,India,APAC,Inactive,13/03/2019,13/11/2019,vendor.prime.939@outlook.com,ACC-6104,Manual Entry,Ravi K.,Clean
+VND-0112,Vendor Alpha 594,Finance,Singapore,APAC,Active,23/04/2022,07/10/2022,vendor.alpha.594@vendor.com,ACC-3877,Oracle,Ravi K.,Clean
+VND-0227,Vendor Zeta 710,Logistics,India,APAC,Active,21/03/2024,25/08/2024,vendor.zeta.710@yahoo.com,ACC-7642,Manual Entry,,Clean
+VND-0676,Vendor Solutions 93,Finance,Australia,APAC,Inactive,24/10/2022,04/12/2022,vendor.solutions.93@vendor.com,ACC-5750,Oracle,Ravi K.,Clean
+VND-0104,Vendor Gamma 711,Finance,India,APAC,Active,18/08/2019,15/01/2020,vendor.gamma.711@outlook.com,ACC-7141,Legacy System,Ravi K.,Clean
+VND-0422,Vendor Beta 909,HR,Germany,EMEA,Active,07/12/2021,07/11/2022,vendor.beta.909@outlook.com,ACC-1202,Oracle,,Clean
+VND-0420,Vendor Ltd 817,Logistics,India,APAC,Active,29/08/2019,18/11/2019,vendor.ltd.817@gmail.com,ACC-7816,Legacy System,Sarah L.,Clean
+VND-0736,Vendor Tech 60,Logistics,UK,EMEA,Active,08/07/2020,06/01/2021,vendor.tech.60@yahoo.com,ACC-1866,Manual Entry,Anita M.,Clean
+VND-0587,Vendor Epsilon 706,Legal,Australia,APAC,Under Review,28/10/2023,10/01/2024,vendor.epsilon.706@corp.net,ACC-3589,Manual Entry,Priya S.,Clean
+VND-0766,Vendor Beta 439,Finance,UK,EMEA,Active,20/08/2019,23/07/2020,vendor.beta.439@yahoo.com,ACC-5056,Oracle,,Clean
+VND-0120,Vendor Solutions 377,Operations,Singapore,APAC,Active,19/06/2023,07/11/2023,vendor.solutions.377@yahoo.com,ACC-3001,Legacy System,Priya S.,Clean
+VND-0054,Vendor Corp 653,Finance,Canada,AMER,Inactive,07/06/2024,23/04/2025,vendor.corp.653@yahoo.com,ACC-5499,Legacy System,Priya S.,Clean
+VND-0152,Vendor Tech 568,Marketing,Singapore,APAC,Inactive,17/01/2024,04/11/2024,vendor.tech.568@yahoo.com,ACC-6267,Legacy System,Sarah L.,Clean
+VND-0404,Vendor Tech 445,Legal,Germany,EMEA,Active,09/05/2024,21/11/2024,vendor.tech.445@gmail.com,ACC-1618,Oracle,,Clean
+VND-0927,Vendor Zeta 257,Finance,Singapore,APAC,Inactive,29/01/2022,06/05/2022,vendor.zeta.257@corp.net,ACC-3258,Manual Entry,Priya S.,Clean
+VND-0208,Vendor Tech 307,HR,Canada,AMER,Active,18/09/2022,28/08/2023,vendor.tech.307@gmail.com,ACC-7824,Manual Entry,,Clean
+VND-0659,Vendor Group 393,Logistics,Singapore,APAC,Active,16/11/2020,03/03/2021,vendor.group.393@corp.net,ACC-6653,SAP,,Clean
+VND-0827,Vendor Corp 998,Operations,UK,EMEA,Active,06/06/2023,07/11/2023,vendor.corp.998@gmail.com,ACC-3049,Oracle,Priya S.,Clean
+VND-0945,Vendor Epsilon 213,Finance,India,APAC,Active,27/10/2019,18/09/2020,vendor.epsilon.213@vendor.com,ACC-7244,Manual Entry,,Clean
+VND-0009,Vendor Group 324,HR,UK,EMEA,Active,12/07/2022,28/10/2022,vendor.group.324@vendor.com,ACC-7482,Legacy System,Ravi K.,Clean
+VND-0791,Vendor Omega 617,Legal,Canada,AMER,Active,31/08/2022,20/04/2023,vendor.omega.617@gmail.com,ACC-1853,Oracle,,Clean
+VND-0037,Vendor Alpha 316,Finance,Canada,AMER,Under Review,13/06/2019,13/12/2019,vendor.alpha.316@yahoo.com,ACC-5088,SAP,Anita M.,Clean
+VND-0453,Vendor Epsilon 920,Legal,USA,AMER,Active,04/12/2019,22/01/2020,vendor.epsilon.920@yahoo.com,ACC-9814,SAP,,Clean
+VND-0652,Vendor Ltd 625,IT,USA,AMER,Active,16/11/2019,31/10/2020,vendor.ltd.625@corp.net,ACC-6119,SAP,Anita M.,Clean
+VND-0254,Vendor Ltd 911,Operations,Singapore,APAC,Under Review,16/11/2024,03/12/2024,vendor.ltd.911@gmail.com,ACC-1794,SAP,James T.,Clean
+VND-0304,Vendor Omega 502,Logistics,Australia,APAC,Active,24/08/2023,03/03/2024,vendor.omega.502@vendor.com,ACC-2237,SAP,James T.,Clean
+VND-0732,Vendor Corp 391,Finance,Australia,APAC,Active,21/05/2022,16/03/2023,vendor.corp.391@outlook.com,ACC-9095,Legacy System,Ravi K.,Clean
+VND-0572,Vendor Solutions 586,Logistics,Australia,APAC,Active,17/11/2024,23/03/2025,vendor.solutions.586@yahoo.com,ACC-2173,Manual Entry,James T.,Clean
+VND-0624,Vendor Solutions 136,Logistics,Singapore,APAC,Active,07/05/2023,06/05/2024,vendor.solutions.136@corp.net,ACC-2897,SAP,Anita M.,Clean
+VND-0707,Vendor Beta 636,Finance,Singapore,APAC,Under Review,09/10/2024,19/09/2025,vendor.beta.636@outlook.com,ACC-1844,SAP,James T.,Clean
+VND-0263,Vendor Tech 674,IT,USA,AMER,Under Review,12/07/2022,20/07/2022,vendor.tech.674@yahoo.com,ACC-3362,Legacy System,Priya S.,Clean
+VND-0611,Vendor Corp 325,Finance,Australia,APAC,Active,20/12/2022,24/02/2023,vendor.corp.325@corp.net,ACC-9132,Legacy System,James T.,Clean
+VND-0298,Vendor Group 557,Marketing,UK,EMEA,Active,20/06/2019,31/01/2020,vendor.group.557@corp.net,ACC-4580,Legacy System,Priya S.,Clean
+VND-0415,Vendor Alpha 688,IT,India,APAC,Inactive,16/07/2024,30/09/2024,vendor.alpha.688@gmail.com,ACC-9383,SAP,,Clean
+VND-0151,Vendor Prime 39,IT,UK,EMEA,Inactive,11/11/2019,06/10/2020,vendor.prime.39@gmail.com,ACC-9307,Legacy System,James T.,Clean
+VND-0774,Vendor Solutions 553,Finance,USA,AMER,Active,26/10/2021,10/09/2022,vendor.solutions.553@corp.net,ACC-8425,Oracle,Priya S.,Clean
+VND-0641,Vendor Corp 143,Operations,Canada,AMER,Active,01/01/2019,17/03/2019,vendor.corp.143@yahoo.com,ACC-8421,Manual Entry,James T.,Clean
+VND-0871,Vendor Global 591,IT,India,APAC,Under Review,07/11/2024,11/02/2025,vendor.global.591@vendor.com,ACC-9235,SAP,Priya S.,Clean
+VND-0551,Vendor Delta 329,Legal,India,APAC,Active,07/05/2023,12/08/2023,vendor.delta.329@corp.net,ACC-9151,Oracle,Sarah L.,Clean
+VND-0914,Vendor Ltd 104,IT,Canada,AMER,Active,02/04/2023,02/03/2024,vendor.ltd.104@gmail.com,ACC-6544,Oracle,Anita M.,Clean
+VND-0489,Vendor Ltd 880,IT,UK,EMEA,Active,01/08/2023,10/12/2023,vendor.ltd.880@yahoo.com,ACC-1089,SAP,Sarah L.,Clean
+VND-0148,Vendor Tech 157,Marketing,Canada,AMER,Active,26/12/2020,12/11/2021,vendor.tech.157@vendor.com,ACC-8601,Legacy System,,Clean
+VND-0147,Vendor Zeta 745,Marketing,Singapore,APAC,Inactive,25/08/2021,16/10/2021,vendor.zeta.745@yahoo.com,ACC-5193,Oracle,Ravi K.,Clean
+VND-0708,Vendor Zeta 477,Operations,India,APAC,Active,18/12/2020,14/11/2021,vendor.zeta.477@corp.net,ACC-2097,Oracle,Ravi K.,Clean
+VND-0913,Vendor Ltd 269,Legal,USA,AMER,Active,04/10/2021,03/01/2022,vendor.ltd.269@yahoo.com,ACC-1352,Oracle,Anita M.,Clean
+VND-0825,Vendor Delta 190,IT,Singapore,APAC,Under Review,28/11/2021,07/11/2022,vendor.delta.190@gmail.com,ACC-8107,SAP,Priya S.,Clean
+VND-0660,Vendor Epsilon 774,Marketing,India,APAC,Active,15/03/2024,05/10/2024,vendor.epsilon.774@vendor.com,ACC-5937,Legacy System,,Clean
+VND-0349,Vendor Omega 904,Operations,Germany,EMEA,Active,19/02/2022,03/09/2022,vendor.omega.904@yahoo.com,ACC-7868,Oracle,,Clean
+VND-0464,Vendor Beta 257,IT,USA,AMER,Inactive,18/06/2024,04/12/2024,vendor.beta.257@outlook.com,ACC-3100,Oracle,Priya S.,Clean
+VND-0326,Vendor Global 530,Marketing,Canada,AMER,Inactive,14/11/2020,,vendor.global.530@yahoo.com,ACC-5403,SAP,Priya S.,Clean
+VND-0187,Vendor Gamma 921,Legal,Germany,EMEA,Under Review,02/08/2022,09/07/2023,vendor.gamma.921@outlook.com,ACC-2063,Manual Entry,Anita M.,Clean
+VND-0124,,Logistics,Australia,APAC,Active,14/12/2020,28/04/2021,vendor.group.808@gmail.com,ACC-3076,Legacy System,Sarah L.,Clean
+VND-0836,,Legal,UK,EMEA,Under Review,02/04/2024,08/06/2024,vendor.delta.602@outlook.com,ACC-7395,Legacy System,,Clean
+VND-0609,Vendor Gamma 125,Legal,Canada,AMER,Active,28/11/2024,27/06/2025,vendor.gamma.125@corp.net,ACC-4438,Oracle,Sarah L.,Clean
+VND-0144,Vendor Solutions 428,Finance,India,APAC,Active,23/08/2022,18/11/2022,vendor.solutions.428@corp.net,ACC-8538,Manual Entry,Priya S.,Clean
+VND-0940,Vendor Beta 845,HR,Australia,APAC,Inactive,23/11/2024,10/05/2025,plaintext,ACC-9043,Legacy System,James T.,Clean
+VND-0198,Vendor Prime 476,Logistics,UK,EMEA,Active,04/07/2022,14/12/2022,vendor.prime.476@outlook.com,ACC-7532,Oracle,Anita M.,Clean
+VND-0610,Vendor Alpha 112,Operations,Singapore,APAC,Under Review,06/12/2024,19/01/2025,vendor.alpha.112@vendor.com,ACC-5705,Legacy System,Sarah L.,Clean
+VND-0280,Vendor Global 946,Marketing,Singapore,APAC,Active,31/05/2019,01/12/2019,vendor.global.946@corp.net,ACC-2392,SAP,Ravi K.,Clean
+VND-0294,Vendor Gamma 323,Marketing,Germany,EMEA,Active,10/01/2023,14/01/2023,vendor.gamma.323@vendor.com,ACC-3236,Oracle,James T.,Clean
+VND-0401,Vendor Omega 543,Finance,Germany,EMEA,Active,09/09/2020,18/11/2020,vendor.omega.543@yahoo.com,ACC-6614,Legacy System,Sarah L.,Clean
+VND-0123,Vendor Corp 149,Logistics,Australia,APAC,Active,15/12/2020,09/02/2021,vendor.corp.149@gmail.com,ACC-3159,SAP,Anita M.,Clean
+VND-0184,Vendor Zeta 455,Marketing,India,APAC,Active,08/12/2024,13/06/2025,vendor.zeta.455@vendor.com,ACC-6150,Manual Entry,Ravi K.,Clean
+VND-0203,Vendor Omega 138,Finance,Singapore,APAC,Active,10/07/2023,13/01/2024,vendor.omega.138@gmail.com,ACC-7563,SAP,Sarah L.,Clean
+VND-0439,,Finance,Australia,APAC,Active,15/03/2021,16/08/2024,vendor.beta.780@corp.net,ACC-5684,Legacy System,Priya S.,Clean
+VND-0247,Vendor Delta 824,Marketing,Australia,APAC,Inactive,07/06/2021,07/02/2022,vendor.delta.824@yahoo.com,ACC-6455,Manual Entry,Priya S.,Clean
+VND-0416,Vendor Services 104,Finance,Singapore,APAC,Active,27/04/2022,09/09/2022,vendor.services.104@vendor.com,ACC-1820,SAP,Ravi K.,Clean
+VND-0762,Vendor Zeta 874,HR,Germany,EMEA,Active,15/05/2019,13/08/2019,vendor.zeta.874@corp.net,ACC-5965,Oracle,James T.,Clean
+VND-0751,Vendor Delta 418,IT,Canada,AMER,Under Review,21/05/2020,14/01/2021,@gmail.com,ACC-9515,Oracle,James T.,Clean
+VND-0754,Vendor Delta 878,IT,Canada,AMER,Inactive,14/02/2023,16/05/2023,vendor.delta.878@gmail.com,ACC-9055,SAP,James T.,Clean
+VND-0870,Vendor Solutions 816,Marketing,Singapore,APAC,Active,22/05/2020,16/04/2021,vendor.solutions.816@corp.net,ACC-2395,Oracle,Sarah L.,Clean
+VND-0130,Vendor Ltd 234,HR,UK,EMEA,Inactive,22/06/2023,20/01/2024,vendor.ltd.234@gmail.com,ACC-6120,Legacy System,Anita M.,Clean
+VND-0638,Vendor Tech 442,Marketing,Germany,EMEA,Active,02/11/2022,07/08/2023,vendor.tech.442@yahoo.com,ACC-3835,SAP,,Clean
+VND-0403,Vendor Solutions 60,IT,Germany,EMEA,Active,21/11/2020,12/09/2021,vendor.solutions.60@yahoo.com,ACC-9021,SAP,Ravi K.,Clean
+VND-0756,Vendor Zeta 999,Logistics,UK,EMEA,Active,15/06/2023,14/09/2023,vendor.zeta.999@yahoo.com,ACC-7958,Legacy System,Anita M.,Clean
+VND-0895,Vendor Prime 324,IT,Germany,EMEA,Active,02/12/2019,19/09/2020,vendor.prime.324@gmail.com,ACC-4696,Legacy System,Priya S.,Clean
+VND-0220,Vendor Zeta 293,Legal,India,APAC,Under Review,02/01/2020,30/11/2020,vendor.zeta.293@corp.net,ACC-4804,SAP,Ravi K.,Clean
+VND-0642,,HR,USA,AMER,Active,20/07/2022,20/12/2022,vendor.tech.592@corp.net,ACC-5989,Legacy System,,Clean
+VND-0897,Vendor Group 25,Operations,Canada,AMER,Active,01/10/2022,06/02/2023,vendor.group.25@yahoo.com,ACC-2766,Legacy System,Ravi K.,Clean
+VND-0738,Vendor Gamma 784,IT,Australia,APAC,Inactive,14/08/2022,22/01/2023,vendor.gamma.784@outlook.com,ACC-5447,Manual Entry,Priya S.,Clean
+VND-0790,Vendor Omega 949,Marketing,UK,EMEA,Inactive,16/02/2020,08/05/2020,vendor.omega.949@outlook.com,ACC-9295,SAP,Anita M.,Clean
+VND-0901,Vendor Corp 391,HR,India,APAC,Active,11/08/2023,08/12/2023,vendor.corp.391@corp.net,ACC-1173,Legacy System,James T.,Clean
+VND-0625,Vendor Ltd 46,Legal,Canada,AMER,Active,23/12/2019,10/06/2020,vendor.ltd.46@vendor.com,,SAP,Sarah L.,Clean
+VND-0892,Vendor Epsilon 956,Operations,Canada,AMER,Active,12/11/2024,01/04/2025,vendor.epsilon.956@yahoo.com,ACC-1378,Manual Entry,,Clean
+VND-0746,Vendor Alpha 773,IT,Canada,AMER,Active,21/04/2021,15/02/2022,vendor.alpha.773@yahoo.com,ACC-4027,Manual Entry,Priya S.,Clean
+VND-0510,Vendor Delta 769,Operations,USA,AMER,Active,30/09/2023,31/05/2024,vendor.delta.769@corp.net,ACC-1533,Manual Entry,James T.,Clean
+VND-0268,Vendor Beta 85,Finance,USA,AMER,Active,23/09/2020,10/04/2021,vendor.beta.85@outlook.com,ACC-6909,SAP,Priya S.,Clean
+VND-0803,Vendor Tech 962,Legal,Canada,AMER,Active,06/07/2019,08/07/2019,vendor.tech.962@outlook.com,ACC-9266,Legacy System,Anita M.,Clean
+VND-0442,Vendor Beta 631,Marketing,Singapore,APAC,Inactive,07/07/2021,03/06/2022,vendor.beta.631@corp.net,ACC-7371,Oracle,Sarah L.,Clean
+VND-0497,Vendor Tech 59,Marketing,Canada,AMER,Active,17/07/2024,26/02/2025,vendor.tech.59@gmail.com,ACC-4304,Manual Entry,Ravi K.,Clean
+VND-0113,Vendor Group 553,Finance,Australia,APAC,Active,21/01/2022,15/04/2022,vendor.group.553@outlook.com,ACC-8894,Manual Entry,,Clean
+VND-0692,Vendor Solutions 373,Finance,USA,AMER,Active,01/10/2022,12/08/2023,vendor.solutions.373@vendor.com,ACC-1709,SAP,,Clean
+VND-0233,Vendor Group 316,Legal,India,APAC,Active,13/01/2019,04/05/2019,vendor.group.316@corp.net,ACC-2196,SAP,James T.,Clean
+VND-0852,Vendor Omega 795,Logistics,UK,EMEA,Inactive,02/10/2022,19/04/2023,vendor.omega.795@yahoo.com,ACC-9527,Manual Entry,Ravi K.,Clean
+VND-0608,Vendor Group 307,Finance,UK,EMEA,Inactive,05/10/2019,10/05/2020,vendor.group.307@corp.net,ACC-2063,Manual Entry,James T.,Clean
+VND-0672,Vendor Epsilon 106,IT,India,APAC,Active,23/10/2021,08/06/2022,vendor.epsilon.106@gmail.com,ACC-9154,Oracle,,Clean
+VND-0374,Vendor Omega 995,Marketing,Australia,APAC,Active,07/09/2019,23/03/2020,vendor.omega.995@corp.net,ACC-7858,Legacy System,Sarah L.,Clean
+VND-0826,Vendor Omega 120,IT,USA,AMER,Active,28/02/2024,16/02/2025,vendor.omega.120@vendor.com,ACC-8974,Manual Entry,Sarah L.,Clean
+VND-0234,Vendor Zeta 718,IT,Australia,APAC,Under Review,10/10/2019,07/06/2020,vendor.zeta.718@gmail.com,ACC-5703,Legacy System,Ravi K.,Clean
+VND-0771,Vendor Corp 998,Marketing,India,APAC,Inactive,26/05/2021,20/10/2021,vendor.corp.998@outlook.com,ACC-1778,Manual Entry,Sarah L.,Clean
+VND-0677,Vendor Global 41,HR,Singapore,APAC,Active,17/05/2023,10/07/2023,vendor.global.41@outlook.com,ACC-8970,SAP,,Clean
+VND-0318,Vendor Omega 303,Legal,India,APAC,Inactive,07/09/2021,18/05/2022,vendor.omega.303@vendor.com,ACC-2847,Oracle,James T.,Clean
+VND-0649,Vendor Corp 461,HR,UK,EMEA,Active,06/10/2023,10/08/2024,vendor.corp.461@gmail.com,ACC-9161,Oracle,,Clean
+VND-0411,Vendor Beta 427,HR,Germany,EMEA,Active,01/11/2021,01/07/2022,vendor.beta.427@yahoo.com,ACC-4366,SAP,Anita M.,Clean
+VND-0880,Vendor Corp 652,Operations,USA,AMER,Inactive,06/08/2020,,vendor.corp.652@corp.net,ACC-3755,Oracle,Sarah L.,Clean
+VND-0710,Vendor Solutions 434,Finance,India,APAC,Active,15/11/2022,04/07/2023,vendor.solutions.434@vendor.com,ACC-9215,SAP,James T.,Clean
+VND-0359,Vendor Gamma 162,Legal,Germany,EMEA,Inactive,18/06/2024,16/05/2025,vendor.gamma.162@outlook.com,ACC-3854,Manual Entry,Ravi K.,Clean
+VND-0259,Vendor Group 407,IT,UK,EMEA,Under Review,24/02/2024,09/12/2024,vendor.group.407@yahoo.com,ACC-4700,Manual Entry,,Clean
+VND-0745,Vendor Group 676,Operations,Australia,APAC,Active,02/05/2020,08/09/2020,vendor.group.676@gmail.com,ACC-2085,Manual Entry,,Clean
+VND-0628,Vendor Alpha 982,Operations,Australia,APAC,Active,26/04/2021,28/01/2022,vendor.alpha.982@outlook.com,ACC-6218,Manual Entry,Ravi K.,Clean
+VND-0633,Vendor Prime 318,Legal,Singapore,APAC,Inactive,21/03/2024,16/11/2024,vendor.prime.318@yahoo.com,ACC-4666,Oracle,Sarah L.,Clean
+VND-0283,Vendor Omega 475,Marketing,Singapore,APAC,Active,11/08/2024,27/10/2024,vendor.omega.475@outlook.com,ACC-1402,Legacy System,Priya S.,Clean
+VND-0377,Vendor Omega 207,Marketing,Singapore,APAC,Active,22/11/2021,04/05/2022,vendor.omega.207@gmail.com,ACC-2425,Legacy System,Sarah L.,Clean
+VND-0385,Vendor Epsilon 727,Operations,Germany,EMEA,Active,17/11/2024,04/09/2025,vendor.epsilon.727@gmail.com,ACC-3846,Oracle,Ravi K.,Clean
+VND-0225,Vendor Zeta 89,HR,Singapore,APAC,Active,29/07/2020,30/03/2021,vendor.zeta.89@outlook.com,ACC-5064,SAP,Anita M.,Clean
+VND-0935,Vendor Solutions 567,Logistics,India,APAC,Inactive,24/06/2024,07/07/2024,vendor.solutions.567@yahoo.com,ACC-4260,SAP,James T.,Clean
+VND-0798,Vendor Services 209,Logistics,Canada,AMER,Inactive,26/12/2021,22/05/2022,vendor.services.209@vendor.com,ACC-7259,Oracle,James T.,Clean
+VND-0473,Vendor Tech 972,Operations,Singapore,APAC,Inactive,21/08/2020,25/04/2021,vendor.tech.972@outlook.com,ACC-1662,Oracle,James T.,Clean
+VND-0348,Vendor Zeta 220,Logistics,UK,EMEA,Active,31/08/2020,17/09/2020,vendor.zeta.220@corp.net,ACC-5026,Manual Entry,James T.,Clean
+VND-0506,Vendor Global 954,Logistics,Germany,EMEA,Active,14/06/2021,03/04/2022,vendor.global.954@outlook.com,ACC-3994,Oracle,James T.,Clean
+VND-0640,,HR,India,APAC,Active,02/04/2023,16/09/2023,vendor.epsilon.979@vendor.com,ACC-2007,SAP,Ravi K.,Clean
+VND-0841,Vendor Group 899,Operations,UK,EMEA,Inactive,12/10/2024,17/08/2025,vendor.group.899@gmail.com,ACC-1826,Legacy System,James T.,Clean
+VND-0910,Vendor Delta 478,Operations,USA,AMER,Active,19/09/2022,30/03/2023,vendor.delta.478@yahoo.com,ACC-7558,Oracle,Priya S.,Clean
+VND-0887,Vendor Alpha 914,Marketing,Canada,AMER,Active,20/05/2020,16/11/2020,vendor.alpha.914@vendor.com,ACC-6864,Legacy System,Ravi K.,Clean
+VND-0620,Vendor Beta 886,Marketing,Canada,AMER,Active,12/07/2022,10/07/2023,vendor.beta.886@gmail.com,ACC-5448,Legacy System,Priya S.,Clean
+VND-0838,Vendor Prime 133,Logistics,USA,AMER,Active,08/07/2024,28/08/2024,vendor.prime.133@vendor.com,ACC-9089,Manual Entry,Ravi K.,Clean
+VND-0646,Vendor Gamma 487,Logistics,USA,AMER,Active,15/01/2023,16/08/2023,vendor.gamma.487@yahoo.com,ACC-5726,Oracle,Ravi K.,Clean
+VND-0830,Vendor Omega 23,IT,USA,AMER,Under Review,29/12/2023,02/09/2024,vendor.omega.23@vendor.com,ACC-1321,Legacy System,Sarah L.,Clean
+VND-0557,Vendor Services 237,Operations,Germany,EMEA,Active,25/11/2024,27/10/2025,vendor.services.237@yahoo.com,ACC-3931,Legacy System,,Clean
+VND-0939,Vendor Tech 962,Finance,Australia,APAC,Active,23/02/2024,13/07/2024,vendor.tech.962@yahoo.com,ACC-1121,Oracle,James T.,Clean
+VND-0578,Vendor Prime 638,Legal,USA,AMER,Active,17/03/2019,25/09/2019,vendor.prime.638@corp.net,ACC-9631,SAP,Anita M.,Clean
+VND-0086,Vendor Prime 706,Finance,Singapore,APAC,Active,20/01/2022,03/10/2022,vendor.prime.706@corp.net,ACC-9090,Legacy System,Priya S.,Clean
+VND-0243,Vendor Prime 49,Finance,Singapore,APAC,Active,15/03/2021,30/04/2025,vendor.prime.49@vendor.com,ACC-7688,Oracle,Anita M.,Clean
+VND-0699,Vendor Tech 928,Logistics,Australia,APAC,Under Review,29/07/2021,11/09/2021,vendor.tech.928@vendor.com,ACC-9548,Legacy System,Ravi K.,Clean
+VND-0160,Vendor Epsilon 865,Marketing,India,APAC,Active,26/11/2024,15/12/2024,vendor.epsilon.865@outlook.com,,Legacy System,Ravi K.,Clean
+VND-0525,,IT,India,APAC,Under Review,22/04/2024,27/01/2025,vendor.omega.106@gmail.com,ACC-1431,Legacy System,Sarah L.,Clean
+VND-0036,Vendor Beta 968,Legal,USA,AMER,Active,21/02/2023,16/12/2023,vendor.beta.968@corp.net,ACC-3426,Legacy System,Ravi K.,Clean
+VND-0541,Vendor Group 97,Operations,Singapore,APAC,Under Review,20/04/2024,05/11/2024,vendor.group.97@outlook.com,ACC-6293,Oracle,,Clean
+VND-0171,Vendor Global 589,Logistics,Singapore,APAC,Active,25/10/2023,25/10/2023,vendor.global.589@corp.net,ACC-6780,Oracle,Sarah L.,Clean
+VND-0655,Vendor Gamma 587,IT,Singapore,APAC,Under Review,22/04/2019,15/09/2019,vendor.gamma.587@vendor.com,ACC-2351,Oracle,Sarah L.,Clean
+VND-0899,Vendor Prime 593,IT,India,APAC,Under Review,17/05/2019,26/11/2019,vendor.prime.593@outlook.com,ACC-2065,Oracle,Priya S.,Clean
+VND-0840,Vendor Zeta 441,IT,Australia,APAC,Active,06/07/2021,12/03/2022,vendor.zeta.441@outlook.com,,Manual Entry,Priya S.,Clean
+VND-0831,Vendor Delta 207,Finance,Australia,APAC,Inactive,24/05/2023,19/06/2023,vendor.delta.207@outlook.com,ACC-1129,SAP,,Clean
+VND-0926,Vendor Ltd 234,IT,India,APAC,Active,06/06/2019,11/03/2020,vendor.ltd.234@yahoo.com,ACC-6468,Oracle,,Clean
+VND-0734,Vendor Ltd 705,Legal,USA,AMER,Active,09/02/2022,19/10/2022,vendor.ltd.705@gmail.com,ACC-6927,Legacy System,Sarah L.,Clean
+VND-0096,Vendor Delta 944,Operations,Australia,APAC,Inactive,13/07/2020,17/08/2020,vendor.delta.944@outlook.com,ACC-7798,Manual Entry,Sarah L.,Clean
+VND-0564,Vendor Prime 365,Logistics,USA,AMER,Active,20/10/2021,16/02/2022,vendor.prime.365@outlook.com,ACC-5920,SAP,Sarah L.,Clean
+VND-0241,Vendor Gamma 516,Finance,USA,AMER,Inactive,30/07/2022,21/05/2023,vendor.gamma.516@corp.net,ACC-6253,Oracle,Anita M.,Clean
+VND-0743,Vendor Gamma 878,Legal,USA,AMER,Under Review,13/06/2022,16/08/2022,vendor.gamma.878@yahoo.com,ACC-3133,SAP,James T.,Clean
+VND-0575,Vendor Alpha 947,Marketing,USA,AMER,Active,12/03/2023,30/05/2023,vendor.alpha.947@gmail.com,ACC-2841,SAP,Ravi K.,Clean
+VND-0691,Vendor Delta 116,Marketing,USA,AMER,Active,27/04/2024,06/01/2025,vendor.delta.116@yahoo.com,ACC-3617,SAP,Priya S.,Clean
+VND-0461,Vendor Alpha 587,Operations,Germany,EMEA,Active,15/12/2019,19/05/2020,vendor.alpha.587@yahoo.com,ACC-6633,Oracle,James T.,Clean
+VND-0554,Vendor Tech 719,Operations,UK,EMEA,Active,23/06/2021,29/04/2022,vendor.tech.719@gmail.com,ACC-1214,Oracle,,Clean
+VND-0393,Vendor Solutions 609,Operations,UK,EMEA,Active,18/03/2020,19/11/2020,vendor.solutions.609@gmail.com,ACC-6509,Manual Entry,,Clean
+VND-0795,Vendor Gamma 403,HR,Canada,AMER,Inactive,08/07/2021,18/07/2021,vendor.gamma.403@gmail.com,ACC-4747,SAP,James T.,Clean
+VND-0398,Vendor Corp 674,Operations,USA,AMER,Active,12/04/2024,16/06/2024,vendor.corp.674@outlook.com,ACC-3999,Manual Entry,,Clean
+VND-0767,Vendor Epsilon 607,IT,Singapore,APAC,Active,02/06/2022,30/07/2022,vendor.epsilon.607@outlook.com,ACC-3781,SAP,Sarah L.,Clean
+VND-0929,Vendor Global 780,Logistics,Canada,AMER,Active,18/07/2021,02/11/2021,vendor@,ACC-4829,Legacy System,,Clean
+VND-0218,Vendor Solutions 927,Operations,USA,AMER,Active,04/08/2019,24/09/2019,,ACC-6411,Legacy System,Priya S.,Clean
+VND-0769,Vendor Alpha 325,HR,Australia,APAC,Active,05/02/2020,12/10/2020,@gmail.com,ACC-4373,Manual Entry,James T.,Clean
+VND-0643,Vendor Ltd 353,IT,Australia,APAC,Active,21/09/2024,15/04/2025,vendor.ltd.353@yahoo.com,ACC-5819,SAP,Anita M.,Clean
+VND-0879,Vendor Epsilon 568,Operations,Singapore,APAC,Active,29/05/2020,31/10/2020,vendor.epsilon.568@corp.net,ACC-7664,Legacy System,Priya S.,Clean
+VND-0613,Vendor Group 121,Legal,Canada,AMER,Active,26/08/2023,24/03/2024,vendor.group.121@gmail.com,ACC-6468,Manual Entry,Sarah L.,Clean
+VND-0739,Vendor Global 594,Finance,Canada,AMER,Active,14/07/2020,05/04/2021,vendor.global.594@outlook.com,ACC-7111,Legacy System,James T.,Clean
+VND-0547,Vendor Delta 22,Legal,Germany,EMEA,Active,05/07/2020,10/11/2020,vendor.delta.22@gmail.com,ACC-8951,Legacy System,Sarah L.,Clean
+VND-0726,Vendor Solutions 981,IT,Australia,APAC,Active,01/07/2024,10/12/2024,vendor.solutions.981@corp.net,ACC-9381,SAP,,Clean
+VND-0684,Vendor Beta 701,Operations,Australia,APAC,Active,23/05/2021,15/06/2021,vendor.beta.701@corp.net,ACC-3841,Manual Entry,Priya S.,Clean
+VND-0805,Vendor Prime 953,Finance,Germany,EMEA,Active,23/07/2022,21/07/2023,vendor.prime.953@corp.net,ACC-8093,Oracle,Anita M.,Clean
+VND-0728,Vendor Zeta 316,HR,Canada,AMER,Active,02/06/2021,15/01/2022,vendor.zeta.316@vendor.com,ACC-8249,Manual Entry,Ravi K.,Clean
+VND-0574,Vendor Zeta 609,Legal,India,APAC,Inactive,24/11/2020,22/05/2021,vendor.zeta.609@corp.net,ACC-8245,Oracle,James T.,Clean
+VND-0407,Vendor Corp 47,Finance,UK,EMEA,Active,01/11/2024,02/09/2025,vendor.corp.47@corp.net,ACC-6535,Legacy System,,Clean
+VND-0503,Vendor Tech 496,Marketing,USA,AMER,Inactive,23/02/2024,05/02/2025,vendor.tech.496@vendor.com,ACC-1448,Legacy System,Priya S.,Clean
+VND-0048,Vendor Prime 692,Logistics,Australia,APAC,Active,26/11/2020,29/10/2021,vendor.prime.692@gmail.com,ACC-5649,Manual Entry,Priya S.,Clean
+VND-0033,Vendor Epsilon 119,IT,Singapore,APAC,Active,20/01/2022,13/06/2022,vendor.epsilon.119@corp.net,ACC-4450,Manual Entry,Ravi K.,Clean
+VND-0780,Vendor Epsilon 809,Marketing,UK,EMEA,Active,21/12/2020,15/11/2021,vendor.epsilon.809@gmail.com,ACC-8960,SAP,Priya S.,Clean
+VND-0201,Vendor Prime 528,HR,Germany,EMEA,Inactive,30/07/2024,10/08/2024,vendor.prime.528@gmail.com,ACC-7442,Legacy System,Ravi K.,Clean
+VND-0135,Vendor Tech 232,Marketing,Germany,EMEA,Inactive,18/04/2019,23/02/2020,vendor.tech.232@outlook.com,ACC-1474,Oracle,Anita M.,Clean
+VND-0028,Vendor Corp 241,HR,India,APAC,Under Review,05/10/2021,28/07/2022,vendor.corp.241@corp.net,ACC-1651,SAP,James T.,Clean
+VND-0883,Vendor Gamma 757,Operations,Australia,APAC,Active,03/01/2020,23/07/2020,vendor.gamma.757@gmail.com,ACC-3288,Manual Entry,James T.,Clean
+VND-0231,Vendor Global 154,Logistics,UK,EMEA,Inactive,15/12/2023,12/02/2024,vendor.global.154@yahoo.com,ACC-9008,SAP,Sarah L.,Clean
+VND-0490,Vendor Global 121,Operations,India,APAC,Active,21/04/2021,08/04/2022,vendor.global.121@outlook.com,ACC-7698,Manual Entry,Priya S.,Clean
+VND-0773,Vendor Tech 821,Operations,Germany,EMEA,Active,23/11/2022,01/01/2023,vendor.tech.821@outlook.com,ACC-9268,Manual Entry,James T.,Clean
+VND-0379,Vendor Omega 154,Logistics,Australia,APAC,Active,15/02/2020,09/04/2020,vendor.omega.154@corp.net,ACC-2654,Manual Entry,Sarah L.,Clean
+VND-0289,Vendor Group 816,IT,Australia,APAC,Active,04/02/2021,10/08/2021,vendor.group.816@outlook.com,ACC-4228,Legacy System,Priya S.,Clean
+VND-0419,Vendor Corp 351,Logistics,India,APAC,Active,13/02/2024,01/07/2024,vendor.corp.351@vendor.com,ACC-8835,Legacy System,,Clean
+VND-0675,Vendor Services 838,Marketing,Germany,EMEA,Active,10/01/2023,29/06/2023,vendor.services.838@outlook.com,ACC-7563,SAP,,Clean
+VND-0392,Vendor Delta 478,Finance,Singapore,APAC,Active,01/10/2024,09/04/2024,vendor.delta.478@gmail.com,ACC-1120,Manual Entry,Sarah L.,Clean
+VND-0593,Vendor Solutions 208,Marketing,USA,AMER,Active,05/12/2023,15/10/2024,vendor.solutions.208@vendor.com,ACC-6323,Legacy System,Ravi K.,Clean
+VND-0499,Vendor Solutions 1,Logistics,India,APAC,Under Review,25/06/2023,22/12/2023,vendor.solutions.1@vendor.com,ACC-7642,Oracle,Sarah L.,Clean
+VND-0139,Vendor Beta 279,HR,Singapore,APAC,Active,16/12/2023,15/07/2024,vendor.beta.279@outlook.com,ACC-4531,SAP,Anita M.,Clean
+VND-0063,Vendor Delta 860,IT,Australia,APAC,Active,01/06/2020,29/01/2021,vendor.delta.860@gmail.com,ACC-4571,Legacy System,,Clean
+VND-0472,Vendor Zeta 515,IT,Singapore,APAC,Active,10/11/2020,31/07/2021,vendor.zeta.515@yahoo.com,ACC-8310,Oracle,Ravi K.,Clean
+VND-0648,Vendor Solutions 826,HR,Canada,AMER,Active,10/10/2023,24/08/2024,vendor.solutions.826@yahoo.com,ACC-8444,Legacy System,Sarah L.,Clean
+VND-0129,Vendor Global 620,HR,India,APAC,Inactive,13/04/2020,14/03/2021,vendor.global.620@corp.net,ACC-4522,Legacy System,James T.,Clean
+VND-0521,Vendor Prime 911,IT,Germany,EMEA,Active,14/03/2024,31/01/2025,vendor.prime.911@yahoo.com,ACC-3745,Manual Entry,James T.,Clean
+VND-0839,Vendor Delta 571,IT,India,APAC,Active,04/12/2021,04/06/2022,vendor.delta.571@yahoo.com,ACC-3862,SAP,Priya S.,Clean
+VND-0944,Vendor Group 567,IT,UK,EMEA,Active,06/03/2020,19/11/2020,vendor.group.567@outlook.com,ACC-7719,Legacy System,Ravi K.,Clean
+VND-0813,Vendor Corp 725,Legal,Germany,EMEA,Active,08/01/2022,08/11/2022,vendor.corp.725@gmail.com,ACC-6397,SAP,,Clean
+VND-0157,Vendor Solutions 716,Legal,Germany,EMEA,Active,14/12/2019,20/05/2020,vendor.solutions.716@corp.net,ACC-7171,Manual Entry,Ravi K.,Clean
+VND-0041,Vendor Solutions 198,HR,UK,EMEA,Active,12/10/2019,02/03/2020,vendor.solutions.198@outlook.com,ACC-9346,Legacy System,,Clean
+VND-0493,Vendor Tech 353,Marketing,Singapore,APAC,Active,19/07/2020,21/06/2021,vendor.tech.353@gmail.com,,Legacy System,,Clean
+VND-0380,Vendor Ltd 353,HR,UK,EMEA,Active,11/06/2024,30/03/2025,vendor.ltd.353@corp.net,ACC-8750,SAP,Ravi K.,Clean
+VND-0188,Vendor Corp 162,Legal,Singapore,APAC,Under Review,14/12/2020,17/06/2021,vendor.corp.162@corp.net,ACC-4673,SAP,Ravi K.,Clean
+VND-0764,Vendor Global 875,Logistics,Australia,APAC,Active,14/12/2021,24/08/2022,vendor.global.875@corp.net,ACC-7189,Manual Entry,Anita M.,Clean
+VND-0217,Vendor Delta 848,Operations,UK,EMEA,Under Review,17/01/2022,28/03/2022,vendor.delta.848@gmail.com,ACC-4920,Oracle,Priya S.,Clean
+VND-0792,Vendor Prime 811,Legal,USA,AMER,Active,30/03/2021,14/02/2022,vendor.prime.811@outlook.com,ACC-6140,SAP,Priya S.,Clean
+VND-0053,Vendor Corp 737,Operations,Germany,EMEA,Inactive,01/01/2024,22/03/2024,vendor.corp.737@vendor.com,ACC-8373,Manual Entry,Ravi K.,Clean
+VND-0338,Vendor Corp 404,IT,Australia,APAC,Active,17/11/2023,21/10/2024,vendor.corp.404@yahoo.com,ACC-4879,Manual Entry,Anita M.,Clean
+VND-0749,Vendor Ltd 773,Operations,India,APAC,Under Review,09/02/2020,28/05/2020,vendor.ltd.773@corp.net,ACC-8777,Manual Entry,,Clean
+VND-0720,Vendor Gamma 452,Finance,UK,EMEA,Active,23/05/2019,27/04/2020,vendor.gamma.452@outlook.com,ACC-6633,Oracle,Anita M.,Clean
+VND-0725,Vendor Tech 657,Logistics,Australia,APAC,Active,12/02/2022,23/05/2022,vendor.tech.657@gmail.com,ACC-2369,Legacy System,,Clean
+VND-0296,Vendor Tech 32,Marketing,Canada,AMER,Active,14/05/2019,01/10/2019,test@.com,ACC-9808,Manual Entry,Ravi K.,Clean
+VND-0702,Vendor Group 517,IT,Germany,EMEA,Active,17/05/2024,08/05/2025,vendor.group.517@gmail.com,ACC-8412,Legacy System,Ravi K.,Clean
+VND-0252,Vendor Delta 338,Logistics,Germany,EMEA,Active,03/10/2021,15/06/2022,vendor.delta.338@corp.net,ACC-6530,Manual Entry,James T.,Clean
+VND-0727,Vendor Zeta 408,Logistics,Singapore,APAC,Inactive,23/02/2023,08/09/2023,vendor.zeta.408@outlook.com,ACC-1199,Manual Entry,Anita M.,Clean
+VND-0462,Vendor Ltd 662,Marketing,Australia,APAC,Active,23/01/2021,16/05/2021,vendor.ltd.662@corp.net,ACC-5140,Oracle,Priya S.,Clean
+VND-0456,Vendor Alpha 183,Marketing,UK,EMEA,Active,21/07/2021,30/11/2021,vendor.alpha.183@vendor.com,ACC-7357,Legacy System,,Clean
+VND-0816,Vendor Alpha 873,Logistics,USA,AMER,Active,07/07/2023,29/11/2023,vendor.alpha.873@yahoo.com,ACC-2975,Manual Entry,James T.,Clean
+VND-0863,Vendor Services 161,Operations,UK,EMEA,Under Review,01/05/2020,05/03/2021,vendor.services.161@vendor.com,ACC-2807,SAP,Anita M.,Clean
+VND-0270,Vendor Prime 571,Operations,Australia,APAC,Active,18/04/2019,02/06/2019,vendor.prime.571@outlook.com,ACC-2524,Manual Entry,James T.,Clean
+VND-0202,Vendor Delta 598,Finance,India,APAC,Active,20/07/2024,21/05/2025,vendor.delta.598@vendor.com,ACC-5681,SAP,Priya S.,Clean
+VND-0162,Vendor Services 244,HR,Australia,APAC,Active,13/01/2024,11/05/2024,vendor.services.244@corp.net,ACC-4918,Manual Entry,James T.,Clean
+VND-0556,Vendor Alpha 844,Operations,UK,EMEA,Active,16/10/2019,19/03/2020,vendor.alpha.844@gmail.com,ACC-4537,SAP,Priya S.,Clean
+VND-0730,Vendor Epsilon 487,Operations,Australia,APAC,Under Review,28/09/2019,26/07/2020,vendor.epsilon.487@vendor.com,ACC-2449,SAP,James T.,Clean
+VND-0402,Vendor Ltd 929,HR,USA,AMER,Active,08/01/2021,18/02/2021,vendor.ltd.929@vendor.com,ACC-6449,Oracle,Anita M.,Clean
+VND-0703,Vendor Beta 572,Marketing,India,APAC,Active,24/07/2023,12/11/2023,vendor.beta.572@yahoo.com,ACC-6872,Manual Entry,Ravi K.,Clean
+VND-0477,Vendor Omega 362,Marketing,Canada,AMER,Active,28/05/2024,02/04/2025,vendor.omega.362@gmail.com,ACC-9222,Oracle,James T.,Clean
+VND-0822,Vendor Global 111,Operations,Germany,EMEA,Active,18/03/2024,19/02/2025,vendor.global.111@corp.net,ACC-5151,Manual Entry,Anita M.,Clean
+VND-0772,Vendor Omega 824,Logistics,Australia,APAC,Inactive,12/01/2020,03/11/2020,vendor.omega.824@gmail.com,ACC-6518,Manual Entry,Priya S.,Clean
+VND-0106,Vendor Solutions 247,HR,Australia,APAC,Active,03/03/2024,23/01/2025,vendor.solutions.247@outlook.com,ACC-8529,Manual Entry,,Clean
+VND-0566,Vendor Solutions 308,IT,Singapore,APAC,Inactive,12/04/2023,22/05/2023,vendor.solutions.308@gmail.com,ACC-6478,Manual Entry,James T.,Clean
+VND-0390,Vendor Omega 526,IT,Canada,AMER,Inactive,06/02/2019,06/10/2019,vendor.omega.526@yahoo.com,ACC-3837,SAP,Ravi K.,Clean
+VND-0002,Vendor Omega 33,IT,India,APAC,Active,31/08/2024,05/07/2025,vendor.omega.33@gmail.com,ACC-4257,Legacy System,Ravi K.,Clean
+VND-0919,Vendor Group 680,Operations,India,APAC,Active,15/06/2023,03/04/2024,vendor.group.680@corp.net,ACC-7131,Legacy System,Sarah L.,Clean
+VND-0562,Vendor Tech 17,Operations,USA,AMER,Under Review,21/05/2022,24/05/2022,vendor.tech.17@outlook.com,ACC-4635,Oracle,Anita M.,Clean
+VND-0081,Vendor Omega 462,HR,UK,EMEA,Active,23/10/2023,27/03/2024,vendor.omega.462@corp.net,ACC-1986,SAP,Ravi K.,Clean
+VND-0206,Vendor Alpha 47,IT,USA,AMER,Inactive,24/04/2024,14/01/2025,vendor.alpha.47@vendor.com,ACC-3440,Oracle,Anita M.,Clean
+VND-0035,Vendor Alpha 342,Marketing,USA,AMER,Active,08/12/2021,28/02/2022,vendor.alpha.342@vendor.com,ACC-8007,SAP,Priya S.,Clean
+VND-0776,Vendor Services 642,IT,Australia,APAC,Active,15/03/2021,23/05/2024,vendor.services.642@yahoo.com,ACC-3465,Manual Entry,James T.,Clean
+VND-0509,Vendor Zeta 636,Finance,Germany,EMEA,Inactive,30/01/2022,08/10/2022,vendor.zeta.636@yahoo.com,ACC-9374,Manual Entry,James T.,Clean
+VND-0428,Vendor Global 1,Marketing,India,APAC,Inactive,01/06/2022,16/02/2023,vendor.global.1@corp.net,ACC-4389,Legacy System,Anita M.,Clean
+VND-0455,Vendor Corp 963,IT,Singapore,APAC,Active,08/04/2019,29/11/2019,vendor.corp.963@outlook.com,ACC-1620,SAP,Priya S.,Clean
+VND-0367,Vendor Tech 629,HR,Singapore,APAC,Active,06/11/2020,12/09/2021,vendor.tech.629@vendor.com,ACC-3573,SAP,Priya S.,Clean
+VND-0092,Vendor Alpha 193,Operations,UK,EMEA,Active,03/08/2024,19/06/2025,vendor.alpha.193@vendor.com,ACC-1845,Oracle,Anita M.,Clean
+VND-0340,Vendor Delta 140,Marketing,Canada,AMER,Active,28/09/2020,21/11/2020,plaintext,ACC-8365,Legacy System,Anita M.,Clean
+VND-0898,Vendor Zeta 853,IT,Canada,AMER,Active,27/08/2021,03/10/2021,vendor.zeta.853@corp.net,ACC-8184,SAP,,Clean
+VND-0565,Vendor Omega 583,Logistics,Singapore,APAC,Active,22/08/2022,26/04/2023,vendor.omega.583@yahoo.com,ACC-8999,SAP,Sarah L.,Clean
+VND-0777,Vendor Omega 327,Marketing,Canada,AMER,Under Review,13/04/2021,10/11/2021,vendor.omega.327@outlook.com,ACC-5702,Oracle,Anita M.,Clean
+VND-0242,Vendor Ltd 147,Legal,Australia,APAC,Under Review,15/05/2022,02/10/2022,vendor.ltd.147@gmail.com,ACC-3869,Legacy System,Sarah L.,Clean
+VND-0014,Vendor Epsilon 862,Legal,Australia,APAC,Active,15/06/2023,28/03/2021,vendor.epsilon.862@yahoo.com,ACC-9837,SAP,Sarah L.,Clean
+VND-0316,Vendor Tech 748,HR,UK,EMEA,Under Review,12/07/2022,21/09/2022,vendor.tech.748@yahoo.com,ACC-5537,SAP,Ravi K.,Clean
+VND-0601,Vendor Global 390,IT,Canada,AMER,Active,04/10/2022,20/07/2023,vendor.global.390@yahoo.com,ACC-3656,Oracle,Ravi K.,Clean
+VND-0388,Vendor Tech 565,Finance,UK,EMEA,Active,25/11/2021,12/11/2022,vendor.tech.565@gmail.com,ACC-5670,SAP,James T.,Clean
+VND-0274,Vendor Gamma 312,IT,Germany,EMEA,Active,06/04/2023,21/09/2023,vendor.gamma.312@vendor.com,ACC-6484,Legacy System,,Clean
+VND-0167,Vendor Zeta 242,HR,India,APAC,Active,26/04/2019,06/10/2019,vendor.zeta.242@gmail.com,ACC-6493,Oracle,Ravi K.,Clean
+VND-0647,Vendor Alpha 74,Legal,India,APAC,Active,16/06/2024,18/05/2025,vendor.alpha.74@vendor.com,ACC-3224,SAP,Ravi K.,Clean
+VND-0819,Vendor Solutions 437,IT,India,APAC,Active,13/03/2024,22/02/2025,vendor.solutions.437@yahoo.com,ACC-3540,Legacy System,Sarah L.,Clean
+VND-0485,Vendor Delta 536,Marketing,Australia,APAC,Active,04/09/2020,11/07/2021,vendor.delta.536@gmail.com,ACC-3906,Legacy System,Sarah L.,Clean
+VND-0505,Vendor Global 549,IT,Singapore,APAC,Inactive,13/10/2021,09/03/2022,vendor.global.549@gmail.com,ACC-7536,Manual Entry,Priya S.,Clean
+VND-0832,Vendor Corp 731,HR,Germany,EMEA,Inactive,06/04/2022,24/04/2022,vendor.corp.731@vendor.com,ACC-7548,Legacy System,Sarah L.,Clean
+VND-0244,Vendor Omega 189,Marketing,Australia,APAC,Active,12/07/2021,12/12/2021,vendor.omega.189@yahoo.com,ACC-8586,SAP,Sarah L.,Clean
+VND-0567,Vendor Omega 953,Marketing,India,APAC,Inactive,17/07/2021,16/06/2022,vendor.omega.953@corp.net,ACC-1187,Legacy System,Priya S.,Clean
+VND-0876,Vendor Alpha 731,IT,UK,EMEA,Active,03/08/2022,14/10/2022,vendor.alpha.731@vendor.com,ACC-6311,Manual Entry,James T.,Clean
+VND-0563,Vendor Alpha 791,Marketing,Singapore,APAC,Inactive,25/09/2024,06/07/2025,vendor.alpha.791@corp.net,ACC-3534,SAP,Priya S.,Clean
+VND-0687,Vendor Alpha 184,IT,Singapore,APAC,Active,08/03/2022,07/10/2022,vendor.alpha.184@vendor.com,ACC-3079,Oracle,Ravi K.,Clean
+VND-0190,Vendor Gamma 627,IT,India,APAC,Active,14/05/2024,07/02/2025,vendor.gamma.627@vendor.com,ACC-7708,SAP,Ravi K.,Clean
+VND-0783,Vendor Ltd 93,Logistics,Australia,APAC,Active,07/07/2022,22/12/2022,vendor.ltd.93@corp.net,ACC-7388,Oracle,James T.,Clean
+VND-0700,Vendor Tech 485,Marketing,Germany,EMEA,Active,20/10/2023,23/02/2024,vendor.tech.485@yahoo.com,ACC-6362,Legacy System,Sarah L.,Clean
+VND-0476,Vendor Solutions 388,Finance,Australia,APAC,Active,15/11/2019,05/08/2020,vendor.solutions.388@outlook.com,ACC-7165,Oracle,Sarah L.,Clean
+VND-0682,Vendor Gamma 648,IT,UK,EMEA,Inactive,03/02/2020,23/09/2020,vendor.gamma.648@corp.net,ACC-3796,SAP,Priya S.,Clean
+VND-0511,Vendor Corp 703,Marketing,USA,AMER,Active,08/05/2020,30/04/2021,vendor.corp.703@corp.net,ACC-8537,Manual Entry,,Clean
+VND-0059,Vendor Epsilon 447,HR,India,APAC,Active,15/07/2023,07/10/2023,vendor.epsilon.447@vendor.com,ACC-3091,SAP,James T.,Clean
+VND-0475,Vendor Ltd 48,IT,Singapore,APAC,Active,05/11/2024,25/09/2025,vendor.ltd.48@outlook.com,ACC-5314,Oracle,James T.,Clean
+VND-0561,Vendor Group 564,Legal,UK,EMEA,Active,28/01/2024,13/09/2024,vendor.group.564@vendor.com,ACC-1003,SAP,Anita M.,Clean
+VND-0857,Vendor Solutions 804,Marketing,Singapore,APAC,Active,27/07/2020,27/07/2021,vendor.solutions.804@vendor.com,ACC-9514,Oracle,Priya S.,Clean
+VND-0748,Vendor Tech 70,IT,Canada,AMER,Active,27/02/2019,24/11/2019,vendor.tech.70@yahoo.com,ACC-4138,Manual Entry,Ravi K.,Clean
+VND-0253,Vendor Services 658,Legal,Germany,EMEA,Active,13/12/2022,09/03/2023,vendor.services.658@yahoo.com,ACC-9954,Legacy System,Ravi K.,Clean
+VND-0022,Vendor Zeta 820,Marketing,India,APAC,Active,01/03/2020,19/11/2021,vendor.zeta.820@vendor.com,ACC-3296,Legacy System,Ravi K.,Clean
+VND-0314,Vendor Solutions 694,Logistics,India,APAC,Active,04/02/2019,13/12/2019,vendor.solutions.694@yahoo.com,ACC-8210,Manual Entry,,Clean
+VND-0460,Vendor Gamma 306,Legal,Canada,AMER,Inactive,09/03/2023,14/03/2023,vendor.gamma.306@corp.net,ACC-3316,SAP,Priya S.,Clean
+VND-0161,Vendor Gamma 186,Marketing,Singapore,APAC,Inactive,09/11/2020,21/06/2021,vendor.gamma.186@gmail.com,ACC-7731,Manual Entry,,Clean
+VND-0277,Vendor Beta 955,Operations,USA,AMER,Active,06/01/2021,21/12/2021,vendor.beta.955@corp.net,ACC-1440,Legacy System,,Clean
+VND-0192,Vendor Global 933,Marketing,India,APAC,Inactive,23/10/2024,,vendor.global.933@outlook.com,ACC-3697,Oracle,Anita M.,Clean
+VND-0386,Vendor Corp 60,Logistics,India,APAC,Active,16/01/2023,11/01/2024,vendor.corp.60@yahoo.com,ACC-5488,Manual Entry,James T.,Clean
+VND-0806,Vendor Beta 321,IT,USA,AMER,Active,24/02/2022,27/08/2022,vendor.beta.321@vendor.com,ACC-5635,Manual Entry,Sarah L.,Clean
+VND-0414,Vendor Omega 303,Logistics,India,APAC,Active,30/04/2021,17/04/2022,vendor.omega.303@vendor.com,ACC-6416,Oracle,Priya S.,Clean
+VND-0492,Vendor Omega 566,Marketing,Australia,APAC,Active,25/02/2023,08/12/2023,vendor.omega.566@corp.net,ACC-8925,Manual Entry,Anita M.,Clean
+VND-0344,Vendor Global 767,Operations,USA,AMER,Active,22/02/2020,03/05/2020,vendor.global.767@gmail.com,ACC-1195,SAP,Ravi K.,Clean
+VND-0770,Vendor Global 831,Marketing,Singapore,APAC,Active,11/05/2022,13/11/2022,vendor.global.831@vendor.com,ACC-4305,Legacy System,,Clean
+VND-0309,Vendor Alpha 982,Operations,USA,AMER,Under Review,24/06/2020,22/05/2021,vendor.alpha.982@outlook.com,ACC-3604,Manual Entry,Priya S.,Clean
+VND-0662,Vendor Epsilon 950,Marketing,Germany,EMEA,Active,17/07/2022,14/04/2023,vendor.epsilon.950@gmail.com,ACC-2595,Manual Entry,James T.,Clean
+VND-0131,Vendor Solutions 262,Finance,USA,AMER,Active,26/04/2024,30/05/2024,vendor.solutions.262@gmail.com,ACC-2398,SAP,James T.,Clean
+VND-0664,Vendor Group 692,Legal,USA,AMER,Inactive,09/03/2021,30/11/2021,plaintext,ACC-3947,Manual Entry,Sarah L.,Clean
+VND-0872,Vendor Solutions 959,Operations,USA,AMER,Under Review,31/01/2022,16/05/2022,vendor.solutions.959@yahoo.com,ACC-8278,SAP,Sarah L.,Clean
+VND-0100,Vendor Global 989,Operations,UK,EMEA,Inactive,09/12/2023,29/01/2024,vendor.global.989@corp.net,ACC-8486,SAP,,Clean
+VND-0373,Vendor Prime 270,Logistics,Canada,AMER,Active,10/09/2019,26/11/2019,vendor.prime.270@gmail.com,ACC-2404,Manual Entry,Sarah L.,Clean
+VND-0088,Vendor Corp 276,Operations,India,APAC,Inactive,18/12/2020,15/08/2021,vendor.corp.276@corp.net,ACC-8245,Manual Entry,Ravi K.,Clean
+VND-0459,Vendor Omega 842,Legal,India,APAC,Active,25/12/2024,16/04/2025,vendor.omega.842@yahoo.com,ACC-7406,Manual Entry,,Clean
+VND-0331,,Legal,UK,EMEA,Active,16/11/2019,03/09/2020,vendor.omega.938@outlook.com,ACC-2956,SAP,Ravi K.,Clean
+VND-0215,Vendor Global 957,Marketing,Singapore,APAC,Active,14/05/2020,03/03/2021,vendor.global.957@corp.net,ACC-7220,Legacy System,Anita M.,Clean
+VND-0467,Vendor Services 657,HR,UK,EMEA,Inactive,04/07/2020,16/06/2021,vendor.services.657@outlook.com,ACC-8863,Legacy System,James T.,Clean
+VND-0122,Vendor Delta 71,Marketing,Canada,AMER,Active,03/06/2021,30/09/2021,vendor.delta.71@outlook.com,ACC-3417,SAP,Anita M.,Clean
+VND-0615,Vendor Global 332,Marketing,India,APAC,Active,27/09/2022,20/03/2023,vendor.global.332@vendor.com,ACC-1477,Oracle,Ravi K.,Clean
+VND-0021,Vendor Beta 675,HR,UK,EMEA,Active,27/03/2024,23/04/2024,vendor.beta.675@gmail.com,ACC-1993,Legacy System,,Clean
+VND-0701,Vendor Delta 914,Operations,USA,AMER,Under Review,21/01/2019,22/08/2019,vendor.delta.914@gmail.com,ACC-1656,Legacy System,,Clean
+VND-0072,Vendor Delta 738,HR,Germany,EMEA,Active,11/09/2021,30/08/2022,vendor.delta.738@vendor.com,ACC-9041,Legacy System,Priya S.,Clean
+VND-0107,Vendor Alpha 921,Marketing,Germany,EMEA,Under Review,09/10/2020,15/11/2020,vendor.alpha.921@vendor.com,ACC-6661,Manual Entry,,Clean
+VND-0271,Vendor Alpha 299,HR,Germany,EMEA,Inactive,21/09/2021,,vendor.alpha.299@corp.net,ACC-3778,Legacy System,Ravi K.,Clean
+VND-0861,Vendor Services 954,HR,Singapore,APAC,Under Review,29/10/2020,10/01/2021,vendor.services.954@corp.net,ACC-3082,Legacy System,,Clean
+VND-0436,Vendor Tech 938,Legal,Canada,AMER,Active,18/06/2023,10/12/2023,vendor.tech.938@outlook.com,ACC-8419,Oracle,Ravi K.,Clean
+VND-0103,Vendor Beta 241,Legal,Singapore,APAC,Under Review,20/07/2021,04/09/2021,vendor.beta.241@vendor.com,ACC-2612,SAP,James T.,Clean
